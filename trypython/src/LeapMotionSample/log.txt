@@ -1,0 +1,1251 @@
+Frame id: 56370, timestamp: 1409368959, hands: 0, fingers: 2, tools: 0, gestures: 0 
+Frame id: 56372, timestamp: 1409392924, hands: 0, fingers: 1, tools: 0, gestures: 0 
+Frame id: 56374, timestamp: 1409416934, hands: 0, fingers: 1, tools: 0, gestures: 0 
+Frame id: 56376, timestamp: 1409440949, hands: 0, fingers: 1, tools: 0, gestures: 0 
+Frame id: 56378, timestamp: 1409464966, hands: 0, fingers: 1, tools: 0, gestures: 0 
+Frame id: 56380, timestamp: 1409488992, hands: 0, fingers: 1, tools: 0, gestures: 0 
+Frame id: 56382, timestamp: 1409512959, hands: 0, fingers: 1, tools: 0, gestures: 0 
+Frame id: 56384, timestamp: 1409536951, hands: 0, fingers: 1, tools: 0, gestures: 0 
+Frame id: 56386, timestamp: 1409561022, hands: 0, fingers: 1, tools: 0, gestures: 0 
+Frame id: 56388, timestamp: 1409585023, hands: 0, fingers: 1, tools: 0, gestures: 0 
+Frame id: 56390, timestamp: 1409608974, hands: 0, fingers: 1, tools: 0, gestures: 0 
+Frame id: 56392, timestamp: 1409633020, hands: 0, fingers: 1, tools: 0, gestures: 0 
+Frame id: 56394, timestamp: 1409657052, hands: 0, fingers: 1, tools: 0, gestures: 0 
+Frame id: 56396, timestamp: 1409680984, hands: 0, fingers: 1, tools: 0, gestures: 0 
+Frame id: 56398, timestamp: 1409705036, hands: 0, fingers: 1, tools: 0, gestures: 0 
+Frame id: 56400, timestamp: 1409729021, hands: 0, fingers: 1, tools: 0, gestures: 0 
+Frame id: 56402, timestamp: 1409753074, hands: 0, fingers: 1, tools: 0, gestures: 0 
+Frame id: 56404, timestamp: 1409777009, hands: 0, fingers: 1, tools: 0, gestures: 0 
+Frame id: 56406, timestamp: 1409801027, hands: 0, fingers: 1, tools: 0, gestures: 0 
+Frame id: 56408, timestamp: 1409825022, hands: 0, fingers: 1, tools: 0, gestures: 0 
+Frame id: 56410, timestamp: 1409849088, hands: 0, fingers: 1, tools: 0, gestures: 0 
+Frame id: 56412, timestamp: 1409873022, hands: 0, fingers: 1, tools: 0, gestures: 0 
+Frame id: 56414, timestamp: 1409897066, hands: 0, fingers: 1, tools: 0, gestures: 0 
+Frame id: 56416, timestamp: 1409921096, hands: 0, fingers: 1, tools: 0, gestures: 0 
+Frame id: 56418, timestamp: 1409945059, hands: 0, fingers: 1, tools: 0, gestures: 0 
+Frame id: 56420, timestamp: 1409969136, hands: 0, fingers: 1, tools: 0, gestures: 0 
+Frame id: 56422, timestamp: 1409993117, hands: 0, fingers: 0, tools: 0, gestures: 0 
+Frame id: 56424, timestamp: 1410017071, hands: 0, fingers: 0, tools: 0, gestures: 0 
+Frame id: 56426, timestamp: 1410041087, hands: 0, fingers: 0, tools: 0, gestures: 0 
+Frame id: 56428, timestamp: 1410065125, hands: 0, fingers: 0, tools: 0, gestures: 0 
+Frame id: 56430, timestamp: 1410089151, hands: 0, fingers: 0, tools: 0, gestures: 0 
+Frame id: 56432, timestamp: 1410113108, hands: 0, fingers: 0, tools: 0, gestures: 0 
+Frame id: 56434, timestamp: 1410137104, hands: 0, fingers: 0, tools: 0, gestures: 0 
+Frame id: 56436, timestamp: 1410161127, hands: 0, fingers: 0, tools: 0, gestures: 0 
+Frame id: 56438, timestamp: 1410185176, hands: 0, fingers: 0, tools: 0, gestures: 0 
+Frame id: 56440, timestamp: 1410209122, hands: 0, fingers: 0, tools: 0, gestures: 0 
+Frame id: 56442, timestamp: 1410233193, hands: 0, fingers: 0, tools: 0, gestures: 0 
+Frame id: 56444, timestamp: 1410257175, hands: 0, fingers: 0, tools: 0, gestures: 0 
+Frame id: 56446, timestamp: 1410281189, hands: 0, fingers: 0, tools: 0, gestures: 0 
+Frame id: 56450, timestamp: 1410329217, hands: 0, fingers: 0, tools: 0, gestures: 0 
+Frame id: 56452, timestamp: 1410353176, hands: 0, fingers: 1, tools: 0, gestures: 0 
+Frame id: 56454, timestamp: 1410377173, hands: 0, fingers: 1, tools: 0, gestures: 0 
+Frame id: 56456, timestamp: 1410401250, hands: 0, fingers: 2, tools: 0, gestures: 0 
+Frame id: 56460, timestamp: 1410449247, hands: 0, fingers: 3, tools: 0, gestures: 0 
+Frame id: 56462, timestamp: 1410473256, hands: 0, fingers: 2, tools: 0, gestures: 0 
+Frame id: 56466, timestamp: 1410521284, hands: 0, fingers: 2, tools: 0, gestures: 0 
+Frame id: 56468, timestamp: 1410545232, hands: 0, fingers: 2, tools: 0, gestures: 0 
+Frame id: 56470, timestamp: 1410569281, hands: 0, fingers: 3, tools: 0, gestures: 0 
+Frame id: 56472, timestamp: 1410593272, hands: 0, fingers: 3, tools: 0, gestures: 0 
+Frame id: 56474, timestamp: 1410617249, hands: 0, fingers: 3, tools: 0, gestures: 0 
+Frame id: 56476, timestamp: 1410641296, hands: 0, fingers: 3, tools: 0, gestures: 0 
+Frame id: 56478, timestamp: 1410665299, hands: 0, fingers: 3, tools: 0, gestures: 0 
+Frame id: 56480, timestamp: 1410689331, hands: 1, fingers: 3, tools: 0, gestures: 0 
+Hand has 3 fingers, average finger tip position: (-41.5057, 85.9383, -3.25869)
+Hand sphere radius: 56.426304 mm, palm position: (-58.3789, 80.281, 43.0949)
+Hand pitch: 13.939746 degrees, roll: 15.630746 degrees, yaw: 15.124433 degrees
+Frame id: 56482, timestamp: 1410713271, hands: 1, fingers: 2, tools: 0, gestures: 0 
+Hand has 2 fingers, average finger tip position: (-54.6382, 83.7072, 1.05809)
+Hand sphere radius: 55.963436 mm, palm position: (-51.2625, 79.1666, 37.4617)
+Hand pitch: 12.947304 degrees, roll: 17.930061 degrees, yaw: 12.685764 degrees
+Frame id: 56484, timestamp: 1410737267, hands: 1, fingers: 2, tools: 0, gestures: 0 
+Hand has 2 fingers, average finger tip position: (-50.8554, 84.1356, 0.908821)
+Hand sphere radius: 55.676201 mm, palm position: (-46.4254, 78.5767, 35.5788)
+Hand pitch: 10.912845 degrees, roll: 19.824162 degrees, yaw: 7.297306 degrees
+Frame id: 56486, timestamp: 1410761349, hands: 1, fingers: 2, tools: 0, gestures: 0 
+Hand has 2 fingers, average finger tip position: (-47.3163, 84.7096, 0.943261)
+Hand sphere radius: 55.147068 mm, palm position: (-43.1829, 77.9386, 35.7616)
+Hand pitch: 2.939823 degrees, roll: 27.006126 degrees, yaw: 5.915372 degrees
+Frame id: 56488, timestamp: 1410785340, hands: 1, fingers: 2, tools: 0, gestures: 0 
+Hand has 2 fingers, average finger tip position: (-43.715, 85.3471, 1.11053)
+Hand sphere radius: 54.909527 mm, palm position: (-40.9454, 76.9443, 37.3453)
+Hand pitch: 5.299472 degrees, roll: 25.770333 degrees, yaw: 1.403309 degrees
+Frame id: 56490, timestamp: 1410809321, hands: 1, fingers: 2, tools: 0, gestures: 0 
+Hand has 2 fingers, average finger tip position: (-40.0027, 86.0481, 1.38222)
+Hand sphere radius: 54.356178 mm, palm position: (-39.5997, 77.1106, 38.2472)
+Hand pitch: 2.393779 degrees, roll: 29.088813 degrees, yaw: 0.373881 degrees
+Frame id: 56492, timestamp: 1410833357, hands: 1, fingers: 2, tools: 0, gestures: 0 
+Hand has 2 fingers, average finger tip position: (-36.7825, 87.2448, 1.07595)
+Hand sphere radius: 53.857048 mm, palm position: (-37.137, 77.1122, 39.2269)
+Hand pitch: 3.273112 degrees, roll: 29.482608 degrees, yaw: -2.067181 degrees
+Frame id: 56494, timestamp: 1410857346, hands: 1, fingers: 2, tools: 0, gestures: 0 
+Hand has 2 fingers, average finger tip position: (-34.8129, 88.6912, 0.210664)
+Hand sphere radius: 53.941360 mm, palm position: (-35.1742, 77.0433, 39.9462)
+Hand pitch: 4.154867 degrees, roll: 30.283092 degrees, yaw: -3.809463 degrees
+Frame id: 56496, timestamp: 1410881332, hands: 1, fingers: 3, tools: 0, gestures: 0 
+Hand has 3 fingers, average finger tip position: (-14.6625, 92.6494, -0.279504)
+Hand sphere radius: 54.226540 mm, palm position: (-33.3242, 77.3842, 40.1074)
+Hand pitch: 4.743356 degrees, roll: 30.762243 degrees, yaw: -4.766997 degrees
+Frame id: 56498, timestamp: 1410905372, hands: 1, fingers: 3, tools: 0, gestures: 0 
+Hand has 3 fingers, average finger tip position: (-13.3047, 93.1607, -0.429233)
+Hand sphere radius: 54.687584 mm, palm position: (-31.407, 77.2807, 40.0689)
+Hand pitch: 6.793595 degrees, roll: 30.844069 degrees, yaw: -3.723381 degrees
+Frame id: 56500, timestamp: 1410929361, hands: 1, fingers: 3, tools: 0, gestures: 0 
+Hand has 3 fingers, average finger tip position: (-12.2848, 93.4399, -0.673384)
+Hand sphere radius: 54.421581 mm, palm position: (-29.8646, 77.2097, 39.5411)
+Hand pitch: 9.577888 degrees, roll: 31.916221 degrees, yaw: -3.404932 degrees
+Frame id: 56502, timestamp: 1410953392, hands: 1, fingers: 3, tools: 0, gestures: 0 
+Hand has 3 fingers, average finger tip position: (-11.4551, 93.6886, -1.0431)
+Hand sphere radius: 54.628391 mm, palm position: (-29.2161, 77.156, 39.2286)
+Hand pitch: 11.114159 degrees, roll: 31.773733 degrees, yaw: -2.743026 degrees
+Frame id: 56504, timestamp: 1410977397, hands: 1, fingers: 3, tools: 0, gestures: 0 
+Hand has 3 fingers, average finger tip position: (-10.7942, 93.7788, -1.58423)
+Hand sphere radius: 54.764832 mm, palm position: (-29.0031, 76.8373, 39.2277)
+Hand pitch: 12.471663 degrees, roll: 31.549399 degrees, yaw: -2.171838 degrees
+Frame id: 56506, timestamp: 1411001400, hands: 1, fingers: 3, tools: 0, gestures: 0 
+Hand has 3 fingers, average finger tip position: (-10.6949, 93.4808, -2.45909)
+Hand sphere radius: 54.855068 mm, palm position: (-29.2863, 76.39, 39.4568)
+Hand pitch: 13.334985 degrees, roll: 30.148872 degrees, yaw: -1.388431 degrees
+Frame id: 56508, timestamp: 1411025359, hands: 1, fingers: 3, tools: 0, gestures: 0 
+Hand has 3 fingers, average finger tip position: (-11.4143, 92.7645, -3.83939)
+Hand sphere radius: 55.020679 mm, palm position: (-29.1318, 76.2103, 38.5674)
+Hand pitch: 14.432986 degrees, roll: 30.313046 degrees, yaw: -0.788016 degrees
+Frame id: 56510, timestamp: 1411049378, hands: 1, fingers: 3, tools: 0, gestures: 0 
+Hand has 3 fingers, average finger tip position: (-12.7519, 91.7962, -5.63923)
+Hand sphere radius: 54.676338 mm, palm position: (-29.3336, 76.0903, 38.2921)
+Hand pitch: 14.897997 degrees, roll: 29.551087 degrees, yaw: -0.023012 degrees
+Frame id: 56512, timestamp: 1411073437, hands: 1, fingers: 3, tools: 0, gestures: 0 
+Hand has 3 fingers, average finger tip position: (-14.4147, 90.8162, -7.73947)
+Hand sphere radius: 54.142719 mm, palm position: (-28.7111, 75.7965, 37.2741)
+Hand pitch: 15.968718 degrees, roll: 30.543377 degrees, yaw: 0.277980 degrees
+Frame id: 56514, timestamp: 1411097422, hands: 1, fingers: 2, tools: 0, gestures: 0 
+Hand has 2 fingers, average finger tip position: (-31.7, 87.881, -9.67323)
+Hand sphere radius: 54.183521 mm, palm position: (-29.6353, 75.896, 37.6684)
+Hand pitch: 15.405239 degrees, roll: 25.138525 degrees, yaw: 1.423938 degrees
+Frame id: 56516, timestamp: 1411121387, hands: 1, fingers: 2, tools: 0, gestures: 0 
+Hand has 2 fingers, average finger tip position: (-30.9276, 87.053, -10.208)
+Hand sphere radius: 53.543243 mm, palm position: (-29.6635, 75.5236, 37.1615)
+Hand pitch: 14.757035 degrees, roll: 27.244496 degrees, yaw: -0.019146 degrees
+Frame id: 56518, timestamp: 1411145405, hands: 1, fingers: 2, tools: 0, gestures: 0 
+Hand has 2 fingers, average finger tip position: (-30.6258, 86.1678, -10.9622)
+Hand sphere radius: 55.016830 mm, palm position: (-30.6644, 75.8116, 37.6873)
+Hand pitch: 10.978034 degrees, roll: 21.799198 degrees, yaw: -0.262167 degrees
+Frame id: 56520, timestamp: 1411169417, hands: 1, fingers: 2, tools: 0, gestures: 0 
+Hand has 2 fingers, average finger tip position: (-30.2992, 83.9837, -11.8721)
+Hand sphere radius: 58.543415 mm, palm position: (-32.4077, 77.7597, 39.1999)
+Hand pitch: 9.073847 degrees, roll: 12.706537 degrees, yaw: -1.243585 degrees
+Frame id: 56522, timestamp: 1411193673, hands: 1, fingers: 2, tools: 0, gestures: 0 
+Hand has 2 fingers, average finger tip position: (-31.6957, 78.4254, -11.6404)
+Hand sphere radius: 59.734043 mm, palm position: (-33.9712, 79.4517, 40.6489)
+Hand pitch: 9.552916 degrees, roll: 6.599143 degrees, yaw: -2.070332 degrees
+Frame id: 56524, timestamp: 1411217479, hands: 1, fingers: 2, tools: 0, gestures: 0 
+Hand has 2 fingers, average finger tip position: (-31.6829, 73.778, -12.0952)
+Hand sphere radius: 59.940144 mm, palm position: (-35.2828, 79.4599, 40.7855)
+Hand pitch: 9.249867 degrees, roll: 3.429390 degrees, yaw: -2.118347 degrees
+Frame id: 56526, timestamp: 1411241427, hands: 1, fingers: 2, tools: 0, gestures: 0 
+Hand has 2 fingers, average finger tip position: (-28.3218, 71.4892, -15.3689)
+Hand sphere radius: 59.188671 mm, palm position: (-38.6364, 79.2267, 42.9511)
+Hand pitch: 7.675506 degrees, roll: 3.745331 degrees, yaw: -1.899688 degrees
+Frame id: 56528, timestamp: 1411265456, hands: 1, fingers: 2, tools: 0, gestures: 0 
+Hand has 2 fingers, average finger tip position: (-26.6343, 73.6845, -21.4585)
+Hand sphere radius: 62.613773 mm, palm position: (-40.0709, 79.9284, 42.9947)
+Hand pitch: 7.064684 degrees, roll: 4.213572 degrees, yaw: -1.244696 degrees
+Frame id: 56530, timestamp: 1411289497, hands: 1, fingers: 4, tools: 0, gestures: 0 
+Hand has 4 fingers, average finger tip position: (-25.4495, 79.1016, -18.0919)
+Hand sphere radius: 67.519707 mm, palm position: (-40.865, 82.2899, 42.4638)
+Hand pitch: 6.808304 degrees, roll: 4.104967 degrees, yaw: 0.038194 degrees
+Frame id: 56532, timestamp: 1411313430, hands: 1, fingers: 4, tools: 0, gestures: 0 
+Hand has 4 fingers, average finger tip position: (-24.4088, 84.6117, -19.7173)
+Hand sphere radius: 71.081917 mm, palm position: (-40.0223, 85.1425, 43.2024)
+Hand pitch: 7.489922 degrees, roll: 3.969537 degrees, yaw: 1.371531 degrees
+Frame id: 56535, timestamp: 1411361435, hands: 1, fingers: 4, tools: 0, gestures: 0 
+Hand has 4 fingers, average finger tip position: (-20.5834, 97.2505, -18.5707)
+Hand sphere radius: 73.727509 mm, palm position: (-34.7579, 92.689, 46.7255)
+Hand pitch: 8.974877 degrees, roll: 4.602323 degrees, yaw: 2.458589 degrees
+Frame id: 56537, timestamp: 1411385428, hands: 1, fingers: 4, tools: 0, gestures: 1 
+Hand has 4 fingers, average finger tip position: (-17.3253, 107.915, -15.0273)
+Hand sphere radius: 74.338066 mm, palm position: (-31.0649, 97.7593, 49.7674)
+Hand pitch: 10.942037 degrees, roll: 5.684127 degrees, yaw: 2.735961 degrees
+Circle id: 17, STATE_START, progress: 0.973007, radius: 9.455180, angle: 0.000000 degrees, counterclockwise
+Frame id: 56541, timestamp: 1411433463, hands: 1, fingers: 4, tools: 0, gestures: 1 
+Hand has 4 fingers, average finger tip position: (-12.4237, 123.094, -10.1156)
+Hand sphere radius: 80.201347 mm, palm position: (-25.1823, 105.117, 58.1054)
+Hand pitch: 13.962298 degrees, roll: 7.578023 degrees, yaw: 2.629943 degrees
+Circle id: 17, STATE_UPDATE, progress: 0.973007, radius: 9.455180, angle: 0.000000 degrees, counterclockwise
+Frame id: 56543, timestamp: 1411457505, hands: 1, fingers: 4, tools: 0, gestures: 1 
+Hand has 4 fingers, average finger tip position: (-9.58136, 132.33, -7.84147)
+Hand sphere radius: 81.965927 mm, palm position: (-22.3855, 109.646, 62.1738)
+Hand pitch: 15.906727 degrees, roll: 9.090250 degrees, yaw: 2.280654 degrees
+Circle id: 17, STATE_UPDATE, progress: 0.973007, radius: 9.455180, angle: 0.000000 degrees, counterclockwise
+Frame id: 56547, timestamp: 1411505490, hands: 1, fingers: 4, tools: 0, gestures: 1 
+Hand has 4 fingers, average finger tip position: (-6.01639, 143.632, -8.66139)
+Hand sphere radius: 80.197388 mm, palm position: (-19.2746, 112.703, 68.7943)
+Hand pitch: 17.153662 degrees, roll: 8.861839 degrees, yaw: 2.856077 degrees
+Circle id: 17, STATE_STOP, progress: 0.973007, radius: 9.455180, angle: 0.000000 degrees, counterclockwise
+Frame id: 56549, timestamp: 1411529520, hands: 1, fingers: 4, tools: 0, gestures: 0 
+Hand has 4 fingers, average finger tip position: (-4.67822, 147.216, -11.704)
+Hand sphere radius: 77.594711 mm, palm position: (-18.3795, 113.886, 68.6255)
+Hand pitch: 17.846608 degrees, roll: 8.409810 degrees, yaw: 3.446126 degrees
+Frame id: 56551, timestamp: 1411553520, hands: 1, fingers: 4, tools: 0, gestures: 0 
+Hand has 4 fingers, average finger tip position: (-3.84506, 148.165, -16.3628)
+Hand sphere radius: 75.924698 mm, palm position: (-17.7541, 114.425, 66.4316)
+Hand pitch: 18.417166 degrees, roll: 7.672849 degrees, yaw: 4.289191 degrees
+Frame id: 56553, timestamp: 1411577502, hands: 1, fingers: 4, tools: 0, gestures: 0 
+Hand has 4 fingers, average finger tip position: (-3.71167, 147.184, -22.4792)
+Hand sphere radius: 73.730927 mm, palm position: (-17.5747, 114.261, 61.2241)
+Hand pitch: 18.849673 degrees, roll: 6.826446 degrees, yaw: 5.018567 degrees
+Frame id: 56555, timestamp: 1411601523, hands: 1, fingers: 4, tools: 0, gestures: 0 
+Hand has 4 fingers, average finger tip position: (-4.32626, 144.779, -29.6816)
+Hand sphere radius: 71.560303 mm, palm position: (-17.5556, 112.692, 54.5126)
+Hand pitch: 19.004986 degrees, roll: 5.787958 degrees, yaw: 5.640503 degrees
+Frame id: 56557, timestamp: 1411625553, hands: 1, fingers: 4, tools: 0, gestures: 0 
+Hand has 4 fingers, average finger tip position: (-5.59194, 141.227, -37.4904)
+Hand sphere radius: 69.908478 mm, palm position: (-17.9756, 110.65, 46.8882)
+Hand pitch: 18.814214 degrees, roll: 4.606099 degrees, yaw: 6.150356 degrees
+Frame id: 56559, timestamp: 1411649535, hands: 1, fingers: 4, tools: 0, gestures: 0 
+Hand has 4 fingers, average finger tip position: (-7.07183, 136.956, -45.3936)
+Hand sphere radius: 68.651207 mm, palm position: (-18.5052, 108.198, 39.5827)
+Hand pitch: 18.284312 degrees, roll: 3.317603 degrees, yaw: 6.519631 degrees
+Frame id: 56561, timestamp: 1411673576, hands: 1, fingers: 4, tools: 0, gestures: 0 
+Hand has 4 fingers, average finger tip position: (-8.59692, 133.111, -53.0697)
+Hand sphere radius: 68.397560 mm, palm position: (-19.1469, 106.155, 32.7175)
+Hand pitch: 17.784086 degrees, roll: 2.207841 degrees, yaw: 6.702555 degrees
+Frame id: 56563, timestamp: 1411697546, hands: 1, fingers: 4, tools: 0, gestures: 0 
+Hand has 4 fingers, average finger tip position: (-10.4409, 129.987, -59.7715)
+Hand sphere radius: 68.951065 mm, palm position: (-20.0321, 104.538, 27.3273)
+Hand pitch: 17.168075 degrees, roll: 1.216302 degrees, yaw: 6.764759 degrees
+Frame id: 56565, timestamp: 1411721537, hands: 1, fingers: 4, tools: 0, gestures: 0 
+Hand has 4 fingers, average finger tip position: (-12.5306, 127.942, -65.5699)
+Hand sphere radius: 68.410675 mm, palm position: (-21.0685, 103.63, 23.0699)
+Hand pitch: 16.639535 degrees, roll: 0.189206 degrees, yaw: 6.735327 degrees
+Frame id: 56567, timestamp: 1411745584, hands: 1, fingers: 4, tools: 0, gestures: 0 
+Hand has 4 fingers, average finger tip position: (-14.5188, 126.739, -70.0347)
+Hand sphere radius: 67.708496 mm, palm position: (-22.0058, 103.34, 19.8708)
+Hand pitch: 16.286352 degrees, roll: -0.605199 degrees, yaw: 6.639339 degrees
+Frame id: 56569, timestamp: 1411769545, hands: 1, fingers: 4, tools: 0, gestures: 0 
+Hand has 4 fingers, average finger tip position: (-15.7843, 126.463, -73.1151)
+Hand sphere radius: 66.894447 mm, palm position: (-22.7063, 103.592, 17.7506)
+Hand pitch: 15.980997 degrees, roll: -1.284537 degrees, yaw: 6.474335 degrees
+Frame id: 56571, timestamp: 1411793613, hands: 1, fingers: 4, tools: 0, gestures: 0 
+Hand has 4 fingers, average finger tip position: (-16.2259, 126.792, -74.7536)
+Hand sphere radius: 66.087425 mm, palm position: (-23.1086, 104.248, 16.7117)
+Hand pitch: 15.778166 degrees, roll: -1.820834 degrees, yaw: 6.267376 degrees
+Frame id: 56573, timestamp: 1411820277, hands: 1, fingers: 4, tools: 0, gestures: 0 
+Hand has 4 fingers, average finger tip position: (-16.2954, 127.598, -75.4962)
+Hand sphere radius: 64.998009 mm, palm position: (-23.3252, 105.188, 16.66)
+Hand pitch: 15.637824 degrees, roll: -2.270713 degrees, yaw: 6.054300 degrees
+Frame id: 56575, timestamp: 1411841611, hands: 1, fingers: 4, tools: 0, gestures: 0 
+Hand has 4 fingers, average finger tip position: (-16.0587, 128.502, -75.2692)
+Hand sphere radius: 64.110802 mm, palm position: (-23.3576, 106.063, 17.1884)
+Hand pitch: 15.450055 degrees, roll: -2.638783 degrees, yaw: 5.862411 degrees
+Frame id: 56577, timestamp: 1411865617, hands: 1, fingers: 4, tools: 0, gestures: 0 
+Hand has 4 fingers, average finger tip position: (-15.7307, 129.558, -74.9374)
+Hand sphere radius: 62.988548 mm, palm position: (-23.3541, 106.801, 18.0877)
+Hand pitch: 15.328150 degrees, roll: -2.934511 degrees, yaw: 5.704317 degrees
+Frame id: 56579, timestamp: 1411889607, hands: 1, fingers: 4, tools: 0, gestures: 0 
+Hand has 4 fingers, average finger tip position: (-15.4336, 130.471, -74.3423)
+Hand sphere radius: 61.956661 mm, palm position: (-23.4402, 107.341, 19.2225)
+Hand pitch: 15.065647 degrees, roll: -3.069582 degrees, yaw: 5.568348 degrees
+Frame id: 56581, timestamp: 1411913632, hands: 1, fingers: 4, tools: 0, gestures: 0 
+Hand has 4 fingers, average finger tip position: (-15.2906, 130.859, -73.6222)
+Hand sphere radius: 61.216084 mm, palm position: (-23.7628, 107.564, 20.4014)
+Hand pitch: 14.741425 degrees, roll: -3.029903 degrees, yaw: 5.469182 degrees
+Frame id: 56583, timestamp: 1411937647, hands: 1, fingers: 4, tools: 0, gestures: 0 
+Hand has 4 fingers, average finger tip position: (-15.574, 130.756, -72.9206)
+Hand sphere radius: 60.967171 mm, palm position: (-23.891, 107.672, 20.6945)
+Hand pitch: 14.551189 degrees, roll: -2.674311 degrees, yaw: 5.421954 degrees
+Frame id: 56585, timestamp: 1411961628, hands: 1, fingers: 4, tools: 0, gestures: 0 
+Hand has 4 fingers, average finger tip position: (-16.2857, 130.254, -72.5556)
+Hand sphere radius: 61.515747 mm, palm position: (-24.3626, 107.751, 21.1377)
+Hand pitch: 14.214928 degrees, roll: -2.171029 degrees, yaw: 5.386493 degrees
+Frame id: 56587, timestamp: 1411985632, hands: 1, fingers: 4, tools: 0, gestures: 0 
+Hand has 4 fingers, average finger tip position: (-17.8502, 129.186, -72.6054)
+Hand sphere radius: 61.756878 mm, palm position: (-25.3414, 107.702, 21.9272)
+Hand pitch: 13.758347 degrees, roll: -1.338369 degrees, yaw: 5.360257 degrees
+Frame id: 56589, timestamp: 1412009630, hands: 1, fingers: 4, tools: 0, gestures: 0 
+Hand has 4 fingers, average finger tip position: (-21.3018, 127.465, -73.239)
+Hand sphere radius: 62.136948 mm, palm position: (-27.3057, 107.863, 21.7625)
+Hand pitch: 13.137446 degrees, roll: 0.328753 degrees, yaw: 5.360782 degrees
+Frame id: 56591, timestamp: 1412033622, hands: 1, fingers: 4, tools: 0, gestures: 0 
+Hand has 4 fingers, average finger tip position: (-26.7951, 125.032, -73.9845)
+Hand sphere radius: 61.929581 mm, palm position: (-30.3096, 108.325, 21.1378)
+Hand pitch: 12.134099 degrees, roll: 2.774794 degrees, yaw: 5.400083 degrees
+Frame id: 56593, timestamp: 1412057711, hands: 1, fingers: 4, tools: 0, gestures: 0 
+Hand has 4 fingers, average finger tip position: (-34.3198, 122.881, -74.395)
+Hand sphere radius: 60.936489 mm, palm position: (-33.8839, 109.027, 20.4501)
+Hand pitch: 11.347544 degrees, roll: 5.768087 degrees, yaw: 5.438522 degrees
+Frame id: 56595, timestamp: 1412081624, hands: 1, fingers: 4, tools: 0, gestures: 0 
+Hand has 4 fingers, average finger tip position: (-44.5283, 121.579, -74.3083)
+Hand sphere radius: 60.468578 mm, palm position: (-37.6508, 110.092, 18.6338)
+Hand pitch: 11.211500 degrees, roll: 8.802069 degrees, yaw: 5.177430 degrees
+Frame id: 56597, timestamp: 1412105695, hands: 1, fingers: 4, tools: 0, gestures: 0 
+Hand has 4 fingers, average finger tip position: (-56.4786, 121.106, -73.6228)
+Hand sphere radius: 59.720055 mm, palm position: (-41.8343, 111.53, 17.7136)
+Hand pitch: 11.643064 degrees, roll: 11.443439 degrees, yaw: 4.347621 degrees
+Frame id: 56599, timestamp: 1412129662, hands: 1, fingers: 4, tools: 0, gestures: 0 
+Hand has 4 fingers, average finger tip position: (-68.5535, 121.741, -71.7834)
+Hand sphere radius: 59.020000 mm, palm position: (-46.0463, 113.111, 17.9405)
+Hand pitch: 12.271465 degrees, roll: 13.530701 degrees, yaw: 2.820114 degrees
+Frame id: 56601, timestamp: 1412153700, hands: 1, fingers: 4, tools: 0, gestures: 0 
+Hand has 4 fingers, average finger tip position: (-79.729, 123.079, -69.4506)
+Hand sphere radius: 58.369915 mm, palm position: (-49.7996, 114.437, 18.8146)
+Hand pitch: 12.849995 degrees, roll: 14.895417 degrees, yaw: 0.622872 degrees
+Frame id: 56603, timestamp: 1412177662, hands: 1, fingers: 4, tools: 0, gestures: 0 
+Hand has 4 fingers, average finger tip position: (-88.8136, 124.789, -66.4234)
+Hand sphere radius: 57.848804 mm, palm position: (-52.7451, 115.204, 20.0912)
+Hand pitch: 13.331800 degrees, roll: 15.417610 degrees, yaw: -2.068818 degrees
+Frame id: 56605, timestamp: 1412201711, hands: 1, fingers: 4, tools: 0, gestures: 0 
+Hand has 4 fingers, average finger tip position: (-96.5634, 126.392, -62.9654)
+Hand sphere radius: 58.141167 mm, palm position: (-55.3752, 115.408, 21.5577)
+Hand pitch: 13.673837 degrees, roll: 15.465995 degrees, yaw: -4.997044 degrees
+Frame id: 56607, timestamp: 1412225708, hands: 1, fingers: 4, tools: 0, gestures: 0 
+Hand has 4 fingers, average finger tip position: (-103.997, 127.764, -59.2089)
+Hand sphere radius: 58.480541 mm, palm position: (-57.9902, 115.115, 22.8195)
+Hand pitch: 14.142862 degrees, roll: 15.033156 degrees, yaw: -8.003960 degrees
+Frame id: 56609, timestamp: 1412249766, hands: 1, fingers: 4, tools: 0, gestures: 0 
+Hand has 4 fingers, average finger tip position: (-111.359, 128.271, -55.026)
+Hand sphere radius: 60.877651 mm, palm position: (-60.5088, 114.236, 24.2759)
+Hand pitch: 14.418956 degrees, roll: 14.426784 degrees, yaw: -10.762450 degrees
+Frame id: 56611, timestamp: 1412273744, hands: 1, fingers: 4, tools: 0, gestures: 0 
+Hand has 4 fingers, average finger tip position: (-117.862, 127.716, -50.6219)
+Hand sphere radius: 63.048611 mm, palm position: (-62.7732, 112.893, 25.4456)
+Hand pitch: 14.634746 degrees, roll: 13.802440 degrees, yaw: -13.362213 degrees
+Frame id: 56613, timestamp: 1412297714, hands: 1, fingers: 5, tools: 0, gestures: 0 
+Hand has 4 fingers, average finger tip position: (-122.741, 125.603, -46.4291)
+Hand sphere radius: 65.498611 mm, palm position: (-64.2842, 111.191, 26.4074)
+Hand pitch: 14.675189 degrees, roll: 13.511795 degrees, yaw: -15.871980 degrees
+Frame id: 56615, timestamp: 1412321761, hands: 1, fingers: 4, tools: 0, gestures: 0 
+Hand has 4 fingers, average finger tip position: (-127.297, 122.192, -42.8167)
+Hand sphere radius: 67.594322 mm, palm position: (-64.8999, 108.554, 27.3087)
+Hand pitch: 14.477291 degrees, roll: 13.665376 degrees, yaw: -18.292673 degrees
+Frame id: 56617, timestamp: 1412347133, hands: 1, fingers: 4, tools: 0, gestures: 0 
+Hand has 4 fingers, average finger tip position: (-129.295, 117.355, -39.3545)
+Hand sphere radius: 69.916214 mm, palm position: (-65.0921, 105.723, 27.9677)
+Hand pitch: 14.009743 degrees, roll: 14.057873 degrees, yaw: -20.564484 degrees
+Frame id: 56619, timestamp: 1412369748, hands: 1, fingers: 4, tools: 0, gestures: 0 
+Hand has 4 fingers, average finger tip position: (-86.3085, 126.799, -42.524)
+Hand sphere radius: 71.868469 mm, palm position: (-64.486, 103.587, 28.1752)
+Hand pitch: 13.494405 degrees, roll: 14.502444 degrees, yaw: -22.870209 degrees
+Frame id: 56621, timestamp: 1412393767, hands: 1, fingers: 4, tools: 0, gestures: 0 
+Hand has 4 fingers, average finger tip position: (-86.9385, 123.334, -41.2268)
+Hand sphere radius: 71.957771 mm, palm position: (-64.0044, 101.405, 28.4144)
+Hand pitch: 13.958392 degrees, roll: 14.722321 degrees, yaw: -21.619185 degrees
+Frame id: 56623, timestamp: 1412417778, hands: 1, fingers: 4, tools: 0, gestures: 0 
+Hand has 4 fingers, average finger tip position: (-86.8225, 120.446, -40.4194)
+Hand sphere radius: 70.924904 mm, palm position: (-63.1455, 99.52, 28.5939)
+Hand pitch: 14.268003 degrees, roll: 14.858242 degrees, yaw: -20.774555 degrees
+Frame id: 56625, timestamp: 1412441795, hands: 1, fingers: 4, tools: 0, gestures: 0 
+Hand has 4 fingers, average finger tip position: (-85.4786, 118.171, -39.9341)
+Hand sphere radius: 70.719360 mm, palm position: (-61.7437, 97.9718, 28.7795)
+Hand pitch: 14.501081 degrees, roll: 14.797023 degrees, yaw: -20.212111 degrees
+Frame id: 56627, timestamp: 1412465742, hands: 1, fingers: 4, tools: 0, gestures: 0 
+Hand has 4 fingers, average finger tip position: (-83.0558, 116.54, -39.9272)
+Hand sphere radius: 72.639427 mm, palm position: (-59.4695, 96.867, 28.4232)
+Hand pitch: 14.671340 degrees, roll: 14.763367 degrees, yaw: -19.758873 degrees
+Frame id: 56629, timestamp: 1412489774, hands: 1, fingers: 4, tools: 0, gestures: 0 
+Hand has 4 fingers, average finger tip position: (-79.9176, 115.767, -40.5682)
+Hand sphere radius: 74.920570 mm, palm position: (-56.9914, 96.3346, 27.8197)
+Hand pitch: 14.774090 degrees, roll: 14.758299 degrees, yaw: -19.408635 degrees
+Frame id: 56631, timestamp: 1412513810, hands: 1, fingers: 4, tools: 0, gestures: 0 
+Hand has 4 fingers, average finger tip position: (-75.629, 116.221, -41.7856)
+Hand sphere radius: 76.104408 mm, palm position: (-53.9805, 97.0601, 27.0187)
+Hand pitch: 14.873528 degrees, roll: 14.586697 degrees, yaw: -19.100132 degrees
+Frame id: 56633, timestamp: 1412537806, hands: 1, fingers: 4, tools: 0, gestures: 0 
+Hand has 4 fingers, average finger tip position: (-69.4979, 118.053, -43.4632)
+Hand sphere radius: 76.743744 mm, palm position: (-50.4605, 98.8906, 26.204)
+Hand pitch: 14.956996 degrees, roll: 14.117672 degrees, yaw: -18.743296 degrees
+Frame id: 56635, timestamp: 1412561746, hands: 1, fingers: 5, tools: 0, gestures: 0 
+Hand has 5 fingers, average finger tip position: (-76.7457, 114.106, -36.3995)
+Hand sphere radius: 78.301193 mm, palm position: (-46.5133, 101.361, 25.6535)
+Hand pitch: 15.175244 degrees, roll: 13.204544 degrees, yaw: -18.351733 degrees
+Frame id: 56637, timestamp: 1412585770, hands: 1, fingers: 5, tools: 0, gestures: 0 
+Hand has 5 fingers, average finger tip position: (-68.604, 117.363, -38.4597)
+Hand sphere radius: 78.897446 mm, palm position: (-41.4554, 103.922, 24.6108)
+Hand pitch: 15.097809 degrees, roll: 12.326840 degrees, yaw: -19.867525 degrees
+Frame id: 56639, timestamp: 1412609836, hands: 1, fingers: 5, tools: 0, gestures: 0 
+Hand has 5 fingers, average finger tip position: (-58.1003, 119.967, -40.7684)
+Hand sphere radius: 83.586632 mm, palm position: (-35.607, 105.913, 22.8749)
+Hand pitch: 15.033718 degrees, roll: 11.376738 degrees, yaw: -20.807144 degrees
+Frame id: 56641, timestamp: 1412633808, hands: 1, fingers: 5, tools: 0, gestures: 0 
+Hand has 5 fingers, average finger tip position: (-45.1132, 121.483, -43.146)
+Hand sphere radius: 87.931038 mm, palm position: (-29.0065, 107.195, 21.5356)
+Hand pitch: 14.854345 degrees, roll: 10.614294 degrees, yaw: -21.107809 degrees
+Frame id: 56643, timestamp: 1412657855, hands: 1, fingers: 5, tools: 0, gestures: 0 
+Hand has 5 fingers, average finger tip position: (-29.7583, 121.641, -44.9807)
+Hand sphere radius: 93.082336 mm, palm position: (-21.9447, 107.792, 20.5256)
+Hand pitch: 14.361696 degrees, roll: 10.034392 degrees, yaw: -20.601490 degrees
+Frame id: 56645, timestamp: 1412681854, hands: 1, fingers: 5, tools: 0, gestures: 0 
+Hand has 5 fingers, average finger tip position: (-12.932, 120.575, -45.4588)
+Hand sphere radius: 98.980507 mm, palm position: (-14.3186, 107.46, 20.7413)
+Hand pitch: 13.750064 degrees, roll: 9.321673 degrees, yaw: -19.238333 degrees
+Frame id: 56647, timestamp: 1412705819, hands: 1, fingers: 5, tools: 0, gestures: 0 
+Hand has 5 fingers, average finger tip position: (4.6113, 118.3, -43.9461)
+Hand sphere radius: 99.995956 mm, palm position: (-6.63614, 106.139, 23.9757)
+Hand pitch: 13.100872 degrees, roll: 8.536637 degrees, yaw: -16.978669 degrees
+Frame id: 56649, timestamp: 1412729829, hands: 1, fingers: 5, tools: 0, gestures: 0 
+Hand has 5 fingers, average finger tip position: (23.9217, 115.398, -39.3342)
+Hand sphere radius: 97.301765 mm, palm position: (1.65254, 104.619, 29.0115)
+Hand pitch: 12.627038 degrees, roll: 7.481856 degrees, yaw: -13.942495 degrees
+Frame id: 56651, timestamp: 1412753921, hands: 1, fingers: 5, tools: 0, gestures: 3 
+Hand has 5 fingers, average finger tip position: (43.9651, 112.977, -31.0293)
+Hand sphere radius: 95.245155 mm, palm position: (10.4073, 103.171, 35.7869)
+Hand pitch: 12.538978 degrees, roll: 6.142466 degrees, yaw: -10.274595 degrees
+Swipe id: 19, state: STATE_START, position: (58.9412, 128.714, -67.2944), direction: (0.999702, 0.0186002, 0.0158143), speed: 1175.455444
+Swipe id: 18, state: STATE_START, position: (11.6038, 119.077, -74.1276), direction: (0.978064, 0.0476856, -0.202775), speed: 1093.475708
+Swipe id: 20, state: STATE_START, position: (100.495, 122.997, -24.9057), direction: (0.936151, -0.0697546, 0.344608), speed: 1084.312622
+Frame id: 56653, timestamp: 1412777893, hands: 1, fingers: 5, tools: 0, gestures: 3 
+Hand has 5 fingers, average finger tip position: (63.0479, 109.315, -18.5644)
+Hand sphere radius: 91.281975 mm, palm position: (18.2015, 101.394, 43.1061)
+Hand pitch: 12.976012 degrees, roll: 4.825323 degrees, yaw: -6.116533 degrees
+Swipe id: 19, state: STATE_UPDATE, position: (58.9412, 128.714, -67.2944), direction: (0.999702, 0.0186002, 0.0158143), speed: 1175.455444
+Swipe id: 18, state: STATE_UPDATE, position: (37.678, 120.578, -64.8277), direction: (0.996649, 0.0264577, -0.0774061), speed: 1147.719360
+Swipe id: 20, state: STATE_UPDATE, position: (100.495, 122.997, -24.9057), direction: (0.936151, -0.0697546, 0.344608), speed: 1084.312622
+Frame id: 56655, timestamp: 1412801828, hands: 1, fingers: 4, tools: 0, gestures: 3 
+Hand has 4 fingers, average finger tip position: (73.7183, 113.78, -29.7929)
+Hand sphere radius: 87.986572 mm, palm position: (24.8769, 99.7501, 48.9975)
+Hand pitch: 13.870660 degrees, roll: 3.725998 degrees, yaw: -1.503388 degrees
+Swipe id: 19, state: STATE_UPDATE, position: (58.9412, 128.714, -67.2944), direction: (0.999702, 0.0186002, 0.0158143), speed: 1175.455444
+Swipe id: 18, state: STATE_UPDATE, position: (37.678, 120.578, -64.8277), direction: (0.996649, 0.0264577, -0.0774061), speed: 1147.719360
+Swipe id: 20, state: STATE_UPDATE, position: (100.495, 122.997, -24.9057), direction: (0.936151, -0.0697546, 0.344608), speed: 1084.312622
+Frame id: 56657, timestamp: 1412825899, hands: 1, fingers: 4, tools: 0, gestures: 3 
+Hand has 4 fingers, average finger tip position: (84.5874, 112.344, -18.5811)
+Hand sphere radius: 85.431046 mm, palm position: (30.5831, 98.1286, 53.9311)
+Hand pitch: 14.385840 degrees, roll: 2.692481 degrees, yaw: 1.691205 degrees
+Swipe id: 19, state: STATE_UPDATE, position: (58.9412, 128.714, -67.2944), direction: (0.999702, 0.0186002, 0.0158143), speed: 1175.455444
+Swipe id: 18, state: STATE_UPDATE, position: (37.678, 120.578, -64.8277), direction: (0.996649, 0.0264577, -0.0774061), speed: 1147.719360
+Swipe id: 20, state: STATE_UPDATE, position: (100.495, 122.997, -24.9057), direction: (0.936151, -0.0697546, 0.344608), speed: 1084.312622
+Frame id: 56659, timestamp: 1412849885, hands: 1, fingers: 4, tools: 0, gestures: 3 
+Hand has 4 fingers, average finger tip position: (92.3021, 108.45, -9.26264)
+Hand sphere radius: 83.373672 mm, palm position: (35.3082, 96.5123, 58.4401)
+Hand pitch: 14.486691 degrees, roll: 1.597886 degrees, yaw: 5.585895 degrees
+Swipe id: 19, state: STATE_UPDATE, position: (58.9412, 128.714, -67.2944), direction: (0.999702, 0.0186002, 0.0158143), speed: 1175.455444
+Swipe id: 18, state: STATE_UPDATE, position: (81.1611, 117.228, -33.5518), direction: (0.927225, -0.0320113, 0.373135), speed: 475.924622
+Swipe id: 20, state: STATE_UPDATE, position: (100.495, 122.997, -24.9057), direction: (0.936151, -0.0697546, 0.344608), speed: 1084.312622
+Frame id: 56661, timestamp: 1412873853, hands: 1, fingers: 4, tools: 0, gestures: 3 
+Hand has 4 fingers, average finger tip position: (97.924, 104.122, -2.34057)
+Hand sphere radius: 81.944916 mm, palm position: (38.425, 95.3393, 61.3335)
+Hand pitch: 13.979635 degrees, roll: 0.413889 degrees, yaw: 9.708605 degrees
+Swipe id: 19, state: STATE_STOP, position: (58.9412, 128.714, -67.2944), direction: (0.999702, 0.0186002, 0.0158143), speed: 1175.455444
+Swipe id: 18, state: STATE_UPDATE, position: (86.9838, 112.846, -27.2156), direction: (0.880518, -0.0745608, 0.468111), speed: 404.690216
+Swipe id: 20, state: STATE_STOP, position: (100.495, 122.997, -24.9057), direction: (0.936151, -0.0697546, 0.344608), speed: 1084.312622
+Frame id: 56663, timestamp: 1412897894, hands: 1, fingers: 4, tools: 0, gestures: 2 
+Hand has 4 fingers, average finger tip position: (101.175, 100.762, 2.15937)
+Hand sphere radius: 84.527519 mm, palm position: (40.4127, 94.5923, 63.3152)
+Hand pitch: 13.336948 degrees, roll: -0.561879 degrees, yaw: 13.672294 degrees
+Swipe id: 18, state: STATE_UPDATE, position: (90.4502, 109.446, -22.7872), direction: (0.824528, -0.133563, 0.549831), speed: 254.142105
+Swipe id: 21, state: STATE_START, position: (148.427, 88.1053, 57.1847), direction: (0.544546, -0.311964, 0.778555), speed: 260.661682
+Frame id: 56665, timestamp: 1412921892, hands: 1, fingers: 4, tools: 0, gestures: 3 
+Hand has 4 fingers, average finger tip position: (102.251, 98.4257, 4.46895)
+Hand sphere radius: 87.547348 mm, palm position: (40.9432, 93.8105, 64.604)
+Hand pitch: 12.950486 degrees, roll: -1.532921 degrees, yaw: 17.309383 degrees
+Swipe id: 22, state: STATE_START, position: (127.332, 98.7973, 6.30627), direction: (0.682489, -0.282823, 0.673959), speed: 152.285248
+Swipe id: 18, state: STATE_UPDATE, position: (91.7405, 107.246, -20.4419), direction: (0.756759, -0.216794, 0.616698), speed: 132.064453
+Swipe id: 21, state: STATE_UPDATE, position: (148.427, 88.1053, 57.1847), direction: (0.544546, -0.311964, 0.778555), speed: 260.661682
+Frame id: 56667, timestamp: 1412946389, hands: 1, fingers: 4, tools: 0, gestures: 3 
+Hand has 4 fingers, average finger tip position: (102.169, 97.2398, 5.17438)
+Hand sphere radius: 88.439476 mm, palm position: (40.5775, 93.5566, 64.5093)
+Hand pitch: 12.609812 degrees, roll: -2.316730 degrees, yaw: 20.474334 degrees
+Swipe id: 22, state: STATE_UPDATE, position: (127.332, 98.7973, 6.30627), direction: (0.682489, -0.282823, 0.673959), speed: 152.285248
+Swipe id: 18, state: STATE_UPDATE, position: (91.7405, 107.246, -20.4419), direction: (0.756759, -0.216794, 0.616698), speed: 132.064453
+Swipe id: 21, state: STATE_UPDATE, position: (148.427, 88.1053, 57.1847), direction: (0.544546, -0.311964, 0.778555), speed: 260.661682
+Frame id: 56669, timestamp: 1412970379, hands: 1, fingers: 4, tools: 0, gestures: 3 
+Hand has 4 fingers, average finger tip position: (100.205, 96.7107, 4.25346)
+Hand sphere radius: 89.472557 mm, palm position: (39.2563, 93.7439, 64.0091)
+Hand pitch: 11.959140 degrees, roll: -2.989517 degrees, yaw: 23.390026 degrees
+Swipe id: 22, state: STATE_UPDATE, position: (127.332, 98.7973, 6.30627), direction: (0.682489, -0.282823, 0.673959), speed: 152.285248
+Swipe id: 18, state: STATE_UPDATE, position: (91.7405, 107.246, -20.4419), direction: (0.756759, -0.216794, 0.616698), speed: 132.064453
+Swipe id: 21, state: STATE_UPDATE, position: (148.427, 88.1053, 57.1847), direction: (0.544546, -0.311964, 0.778555), speed: 260.661682
+Frame id: 56671, timestamp: 1412993924, hands: 1, fingers: 4, tools: 0, gestures: 3 
+Hand has 4 fingers, average finger tip position: (96.9719, 97.0172, 2.45827)
+Hand sphere radius: 88.104485 mm, palm position: (37.2512, 94.1778, 63.1132)
+Hand pitch: 11.508062 degrees, roll: -3.414478 degrees, yaw: 26.008239 degrees
+Swipe id: 22, state: STATE_UPDATE, position: (127.332, 98.7973, 6.30627), direction: (0.682489, -0.282823, 0.673959), speed: 152.285248
+Swipe id: 18, state: STATE_UPDATE, position: (91.7405, 107.246, -20.4419), direction: (0.756759, -0.216794, 0.616698), speed: 132.064453
+Swipe id: 21, state: STATE_UPDATE, position: (148.427, 88.1053, 57.1847), direction: (0.544546, -0.311964, 0.778555), speed: 260.661682
+Frame id: 56673, timestamp: 1413017958, hands: 1, fingers: 4, tools: 0, gestures: 3 
+Hand has 4 fingers, average finger tip position: (92.5035, 98.4248, -0.265936)
+Hand sphere radius: 85.941719 mm, palm position: (34.4456, 94.9526, 61.9964)
+Hand pitch: 11.207793 degrees, roll: -3.581394 degrees, yaw: 28.290357 degrees
+Swipe id: 22, state: STATE_UPDATE, position: (127.332, 98.7973, 6.30627), direction: (0.682489, -0.282823, 0.673959), speed: 152.285248
+Swipe id: 18, state: STATE_UPDATE, position: (91.7405, 107.246, -20.4419), direction: (0.756759, -0.216794, 0.616698), speed: 132.064453
+Swipe id: 21, state: STATE_STOP, position: (148.427, 88.1053, 57.1847), direction: (0.544546, -0.311964, 0.778555), speed: 260.661682
+Frame id: 56675, timestamp: 1413041885, hands: 1, fingers: 4, tools: 0, gestures: 2 
+Hand has 4 fingers, average finger tip position: (87.1337, 97.9686, -3.47488)
+Hand sphere radius: 84.515282 mm, palm position: (31.0112, 95.8322, 61.2862)
+Hand pitch: 11.223259 degrees, roll: -3.787357 degrees, yaw: 30.261020 degrees
+Swipe id: 22, state: STATE_STOP, position: (127.332, 98.7973, 6.30627), direction: (0.682489, -0.282823, 0.673959), speed: 152.285248
+Swipe id: 18, state: STATE_STOP, position: (91.7405, 107.246, -20.4419), direction: (0.756759, -0.216794, 0.616698), speed: 132.064453
+Frame id: 56677, timestamp: 1413065933, hands: 1, fingers: 4, tools: 0, gestures: 0 
+Hand has 4 fingers, average finger tip position: (81.062, 101.203, -7.18935)
+Hand sphere radius: 84.295593 mm, palm position: (27.4055, 96.9938, 61.1576)
+Hand pitch: 11.561226 degrees, roll: -3.995909 degrees, yaw: 31.882347 degrees
+Frame id: 56679, timestamp: 1413089936, hands: 1, fingers: 4, tools: 0, gestures: 0 
+Hand has 4 fingers, average finger tip position: (74.4543, 103.459, -10.6552)
+Hand sphere radius: 83.331886 mm, palm position: (23.6622, 98.2204, 61.0442)
+Hand pitch: 12.118791 degrees, roll: -4.409283 degrees, yaw: 33.182647 degrees
+Frame id: 56681, timestamp: 1413113957, hands: 1, fingers: 4, tools: 0, gestures: 0 
+Hand has 4 fingers, average finger tip position: (67.0947, 104.532, -13.3786)
+Hand sphere radius: 80.326218 mm, palm position: (19.4068, 100.225, 61.2892)
+Hand pitch: 12.978095 degrees, roll: -5.350591 degrees, yaw: 34.170948 degrees
+Frame id: 56683, timestamp: 1413137963, hands: 1, fingers: 4, tools: 0, gestures: 0 
+Hand has 4 fingers, average finger tip position: (59.6205, 104.515, -14.4541)
+Hand sphere radius: 77.277840 mm, palm position: (15.7733, 102.241, 61.7042)
+Hand pitch: 13.368303 degrees, roll: -6.987593 degrees, yaw: 34.712220 degrees
+Frame id: 56685, timestamp: 1413161972, hands: 1, fingers: 3, tools: 0, gestures: 0 
+Hand has 3 fingers, average finger tip position: (55.464, 105.817, -9.70457)
+Hand sphere radius: 74.585838 mm, palm position: (12.7794, 103.638, 62.5109)
+Hand pitch: 13.704273 degrees, roll: -9.152691 degrees, yaw: 35.062285 degrees
+Frame id: 56687, timestamp: 1413185993, hands: 1, fingers: 3, tools: 0, gestures: 0 
+Hand has 3 fingers, average finger tip position: (48.6423, 112.959, -7.54753)
+Hand sphere radius: 72.552307 mm, palm position: (9.105, 106.008, 64.111)
+Hand pitch: 15.332943 degrees, roll: -10.899594 degrees, yaw: 35.986454 degrees
+Frame id: 56689, timestamp: 1413209998, hands: 1, fingers: 2, tools: 0, gestures: 0 
+Hand has 2 fingers, average finger tip position: (58.8998, 123.751, -17.2154)
+Hand sphere radius: 70.364319 mm, palm position: (3.98785, 109.361, 64.2146)
+Hand pitch: 18.636284 degrees, roll: -16.111025 degrees, yaw: 38.532260 degrees
+Frame id: 56691, timestamp: 1413234349, hands: 1, fingers: 2, tools: 0, gestures: 0 
+Hand has 2 fingers, average finger tip position: (43.5749, 134.146, -20.0707)
+Hand sphere radius: 67.862915 mm, palm position: (-1.36447, 111.401, 64.8394)
+Hand pitch: 18.110079 degrees, roll: -18.048557 degrees, yaw: 39.234704 degrees
+Frame id: 56695, timestamp: 1413281992, hands: 1, fingers: 2, tools: 0, gestures: 0 
+Hand has 2 fingers, average finger tip position: (15.2682, 150.599, -24.645)
+Hand sphere radius: 65.560524 mm, palm position: (-14.846, 120.604, 66.2688)
+Hand pitch: 20.819756 degrees, roll: -15.691952 degrees, yaw: 39.339728 degrees
+Frame id: 56697, timestamp: 1413306000, hands: 1, fingers: 2, tools: 0, gestures: 0 
+Hand has 2 fingers, average finger tip position: (2.20417, 158.562, -26.4915)
+Hand sphere radius: 62.781452 mm, palm position: (-20.7978, 124.413, 64.5469)
+Hand pitch: 23.521095 degrees, roll: -11.078234 degrees, yaw: 38.554304 degrees
+Frame id: 56701, timestamp: 1413354011, hands: 1, fingers: 2, tools: 0, gestures: 0 
+Hand has 2 fingers, average finger tip position: (-15.805, 164.522, -30.5284)
+Hand sphere radius: 61.058323 mm, palm position: (-32.5755, 125.257, 61.7105)
+Hand pitch: 26.308672 degrees, roll: -7.008594 degrees, yaw: 36.011852 degrees
+Frame id: 56703, timestamp: 1413377984, hands: 1, fingers: 2, tools: 0, gestures: 0 
+Hand has 2 fingers, average finger tip position: (-20.8846, 163.598, -32.6288)
+Hand sphere radius: 59.529964 mm, palm position: (-37.028, 123.643, 59.3341)
+Hand pitch: 28.315919 degrees, roll: -3.405282 degrees, yaw: 33.232624 degrees
+Frame id: 56705, timestamp: 1413402021, hands: 1, fingers: 2, tools: 0, gestures: 0 
+Hand has 2 fingers, average finger tip position: (-24.1022, 161.024, -34.5839)
+Hand sphere radius: 58.147736 mm, palm position: (-38.7747, 122.606, 58.1615)
+Hand pitch: 29.319550 degrees, roll: -0.461802 degrees, yaw: 29.447815 degrees
+Frame id: 56708, timestamp: 1413450056, hands: 1, fingers: 2, tools: 0, gestures: 0 
+Hand has 2 fingers, average finger tip position: (-27.0043, 156.105, -36.8826)
+Hand sphere radius: 56.918385 mm, palm position: (-42.0523, 117.932, 56.8929)
+Hand pitch: 29.600428 degrees, roll: 1.861940 degrees, yaw: 25.642528 degrees
+Frame id: 56710, timestamp: 1413474058, hands: 1, fingers: 2, tools: 0, gestures: 0 
+Hand has 2 fingers, average finger tip position: (-27.8693, 153.188, -38.1353)
+Hand sphere radius: 55.905132 mm, palm position: (-42.453, 115.752, 55.1308)
+Hand pitch: 29.767068 degrees, roll: 4.434270 degrees, yaw: 22.355595 degrees
+Frame id: 56712, timestamp: 1413498075, hands: 1, fingers: 2, tools: 0, gestures: 0 
+Hand has 2 fingers, average finger tip position: (-27.9884, 151.379, -38.8745)
+Hand sphere radius: 55.109200 mm, palm position: (-42.4411, 114.366, 54.0045)
+Hand pitch: 29.773075 degrees, roll: 6.262653 degrees, yaw: 19.587972 degrees
+Frame id: 56714, timestamp: 1413522052, hands: 1, fingers: 2, tools: 0, gestures: 0 
+Hand has 2 fingers, average finger tip position: (-27.3009, 150.15, -39.2671)
+Hand sphere radius: 54.500671 mm, palm position: (-41.9499, 113.626, 53.351)
+Hand pitch: 29.577885 degrees, roll: 7.486869 degrees, yaw: 17.402989 degrees
+Frame id: 56716, timestamp: 1413546054, hands: 1, fingers: 2, tools: 0, gestures: 0 
+Hand has 2 fingers, average finger tip position: (-26.1955, 149.4, -39.4706)
+Hand sphere radius: 54.006405 mm, palm position: (-41.2033, 113.339, 53.057)
+Hand pitch: 29.208505 degrees, roll: 8.399579 degrees, yaw: 15.613500 degrees
+Frame id: 56718, timestamp: 1413570050, hands: 1, fingers: 2, tools: 0, gestures: 0 
+Hand has 2 fingers, average finger tip position: (-24.9758, 148.97, -39.597)
+Hand sphere radius: 53.521767 mm, palm position: (-40.1443, 113.321, 52.775)
+Hand pitch: 29.014033 degrees, roll: 8.788402 degrees, yaw: 14.225331 degrees
+Frame id: 56720, timestamp: 1413594068, hands: 1, fingers: 2, tools: 0, gestures: 0 
+Hand has 2 fingers, average finger tip position: (-23.5244, 148.713, -39.6652)
+Hand sphere radius: 53.178001 mm, palm position: (-39.1523, 113.38, 52.866)
+Hand pitch: 28.772152 degrees, roll: 8.987978 degrees, yaw: 13.112975 degrees
+Frame id: 56722, timestamp: 1413618092, hands: 1, fingers: 2, tools: 0, gestures: 0 
+Hand has 2 fingers, average finger tip position: (-21.7921, 148.492, -39.6804)
+Hand sphere radius: 53.004723 mm, palm position: (-38.1218, 113.506, 52.9958)
+Hand pitch: 28.523792 degrees, roll: 9.055564 degrees, yaw: 12.238237 degrees
+Frame id: 56724, timestamp: 1413642129, hands: 1, fingers: 2, tools: 0, gestures: 0 
+Hand has 2 fingers, average finger tip position: (-19.6106, 148.109, -39.642)
+Hand sphere radius: 52.849411 mm, palm position: (-36.9691, 113.689, 53.0279)
+Hand pitch: 28.107214 degrees, roll: 8.977141 degrees, yaw: 11.608896 degrees
+Frame id: 56726, timestamp: 1413666073, hands: 1, fingers: 2, tools: 0, gestures: 0 
+Hand has 2 fingers, average finger tip position: (-16.7916, 147.562, -39.5687)
+Hand sphere radius: 52.801857 mm, palm position: (-35.6818, 113.84, 52.9474)
+Hand pitch: 27.695070 degrees, roll: 8.755546 degrees, yaw: 11.128756 degrees
+Frame id: 56728, timestamp: 1413690118, hands: 1, fingers: 3, tools: 0, gestures: 0 
+Hand has 3 fingers, average finger tip position: (-27.1282, 134.342, -19.5319)
+Hand sphere radius: 52.580353 mm, palm position: (-34.2739, 113.656, 52.7585)
+Hand pitch: 27.170143 degrees, roll: 7.952448 degrees, yaw: 10.879174 degrees
+Frame id: 56730, timestamp: 1413714114, hands: 1, fingers: 3, tools: 0, gestures: 0 
+Hand has 3 fingers, average finger tip position: (-24.765, 133.793, -20.1849)
+Hand sphere radius: 52.263954 mm, palm position: (-33.012, 112.995, 52.3261)
+Hand pitch: 26.452553 degrees, roll: 6.602240 degrees, yaw: 8.640473 degrees
+Frame id: 56732, timestamp: 1413738126, hands: 1, fingers: 2, tools: 0, gestures: 0 
+Hand has 2 fingers, average finger tip position: (-6.30992, 143.013, -38.5106)
+Hand sphere radius: 51.978069 mm, palm position: (-31.3249, 112.868, 49.2059)
+Hand pitch: 24.975255 degrees, roll: 7.539556 degrees, yaw: 6.760659 degrees
+Frame id: 56734, timestamp: 1413762203, hands: 1, fingers: 2, tools: 0, gestures: 0 
+Hand has 2 fingers, average finger tip position: (-0.653579, 139.212, -37.6843)
+Hand sphere radius: 54.815521 mm, palm position: (-33.8666, 118.907, 49.937)
+Hand pitch: 26.475919 degrees, roll: 1.353362 degrees, yaw: 9.308855 degrees
+Frame id: 56738, timestamp: 1413810196, hands: 1, fingers: 2, tools: 0, gestures: 0 
+Hand has 2 fingers, average finger tip position: (11.0369, 131.867, -35.4226)
+Hand sphere radius: 58.933590 mm, palm position: (-31.5799, 117.309, 49.3423)
+Hand pitch: 24.444790 degrees, roll: 1.765622 degrees, yaw: 10.301990 degrees
+Frame id: 56740, timestamp: 1413834139, hands: 1, fingers: 2, tools: 0, gestures: 0 
+Hand has 2 fingers, average finger tip position: (18.3297, 129.583, -33.5242)
+Hand sphere radius: 62.215176 mm, palm position: (-29.7786, 116.36, 49.1184)
+Hand pitch: 23.361325 degrees, roll: 1.981851 degrees, yaw: 11.576444 degrees
+Frame id: 56742, timestamp: 1413858213, hands: 1, fingers: 4, tools: 0, gestures: 0 
+Hand has 4 fingers, average finger tip position: (-12.9306, 132.558, -30.4147)
+Hand sphere radius: 65.432274 mm, palm position: (-27.95, 115.731, 49.0719)
+Hand pitch: 22.868584 degrees, roll: 1.999789 degrees, yaw: 13.392247 degrees
+Frame id: 56744, timestamp: 1413882139, hands: 1, fingers: 4, tools: 0, gestures: 0 
+Hand has 4 fingers, average finger tip position: (-10.7556, 132.322, -29.8954)
+Hand sphere radius: 68.810013 mm, palm position: (-26.4699, 114.885, 49.1061)
+Hand pitch: 22.406808 degrees, roll: 2.070308 degrees, yaw: 12.406877 degrees
+Frame id: 56746, timestamp: 1413906155, hands: 1, fingers: 4, tools: 0, gestures: 0 
+Hand has 4 fingers, average finger tip position: (-9.55935, 131.591, -29.6657)
+Hand sphere radius: 71.078598 mm, palm position: (-25.4142, 113.878, 48.8303)
+Hand pitch: 22.062638 degrees, roll: 2.305417 degrees, yaw: 11.768695 degrees
+Frame id: 56748, timestamp: 1413930202, hands: 1, fingers: 4, tools: 0, gestures: 0 
+Hand has 4 fingers, average finger tip position: (-9.04052, 130.799, -29.6559)
+Hand sphere radius: 73.036102 mm, palm position: (-24.7974, 112.702, 48.5834)
+Hand pitch: 21.660583 degrees, roll: 2.408271 degrees, yaw: 11.303514 degrees
+Frame id: 56750, timestamp: 1413954171, hands: 1, fingers: 4, tools: 0, gestures: 0 
+Hand has 4 fingers, average finger tip position: (-8.86522, 130.27, -29.7935)
+Hand sphere radius: 75.042839 mm, palm position: (-24.5889, 111.884, 48.4118)
+Hand pitch: 21.392832 degrees, roll: 2.437176 degrees, yaw: 10.979978 degrees
+Frame id: 56752, timestamp: 1413978193, hands: 1, fingers: 4, tools: 0, gestures: 0 
+Hand has 4 fingers, average finger tip position: (-8.77941, 130.044, -29.9599)
+Hand sphere radius: 76.782051 mm, palm position: (-24.4899, 111.481, 47.9293)
+Hand pitch: 21.243169 degrees, roll: 2.494131 degrees, yaw: 10.733741 degrees
+Frame id: 56754, timestamp: 1414002187, hands: 1, fingers: 4, tools: 0, gestures: 0 
+Hand has 4 fingers, average finger tip position: (-8.76324, 130.082, -30.1615)
+Hand sphere radius: 78.092010 mm, palm position: (-24.5207, 111.223, 47.7422)
+Hand pitch: 21.152331 degrees, roll: 2.465354 degrees, yaw: 10.541900 degrees
+Frame id: 56756, timestamp: 1414026147, hands: 1, fingers: 4, tools: 0, gestures: 0 
+Hand has 4 fingers, average finger tip position: (-8.75957, 130.233, -30.2801)
+Hand sphere radius: 79.122391 mm, palm position: (-24.5822, 111.114, 47.5222)
+Hand pitch: 21.139665 degrees, roll: 2.431765 degrees, yaw: 10.387492 degrees
+Frame id: 56758, timestamp: 1414050230, hands: 1, fingers: 4, tools: 0, gestures: 0 
+Hand has 4 fingers, average finger tip position: (-8.85614, 130.279, -30.3465)
+Hand sphere radius: 80.131157 mm, palm position: (-24.6965, 111.044, 47.4391)
+Hand pitch: 21.096698 degrees, roll: 2.413307 degrees, yaw: 10.252700 degrees
+Frame id: 56760, timestamp: 1414074248, hands: 1, fingers: 4, tools: 0, gestures: 0 
+Hand has 4 fingers, average finger tip position: (-9.11744, 130.275, -30.4374)
+Hand sphere radius: 80.633400 mm, palm position: (-24.8228, 111.058, 47.3145)
+Hand pitch: 21.084297 degrees, roll: 2.427062 degrees, yaw: 10.137606 degrees
+Frame id: 56762, timestamp: 1414098238, hands: 1, fingers: 4, tools: 0, gestures: 0 
+Hand has 4 fingers, average finger tip position: (-9.43252, 130.302, -30.5634)
+Hand sphere radius: 81.074356 mm, palm position: (-24.9845, 111.131, 47.3372)
+Hand pitch: 21.053049 degrees, roll: 2.563944 degrees, yaw: 10.012134 degrees
+Frame id: 56764, timestamp: 1414122241, hands: 1, fingers: 4, tools: 0, gestures: 0 
+Hand has 4 fingers, average finger tip position: (-9.71642, 130.471, -30.6645)
+Hand sphere radius: 81.107880 mm, palm position: (-25.1531, 111.338, 47.3667)
+Hand pitch: 21.059265 degrees, roll: 2.673492 degrees, yaw: 9.897758 degrees
+Frame id: 56766, timestamp: 1414146211, hands: 1, fingers: 4, tools: 0, gestures: 0 
+Hand has 4 fingers, average finger tip position: (-9.87206, 130.768, -30.8136)
+Hand sphere radius: 80.963470 mm, palm position: (-25.2984, 111.676, 47.2218)
+Hand pitch: 21.052650 degrees, roll: 2.801619 degrees, yaw: 9.777013 degrees
+Frame id: 56768, timestamp: 1414170232, hands: 1, fingers: 4, tools: 0, gestures: 0 
+Hand has 4 fingers, average finger tip position: (-9.87525, 131.02, -30.9702)
+Hand sphere radius: 80.617981 mm, palm position: (-25.32, 111.891, 47.002)
+Hand pitch: 21.051943 degrees, roll: 2.941523 degrees, yaw: 9.634205 degrees
+Frame id: 56770, timestamp: 1414194296, hands: 1, fingers: 4, tools: 0, gestures: 0 
+Hand has 4 fingers, average finger tip position: (-9.73357, 131.176, -31.1875)
+Hand sphere radius: 79.905022 mm, palm position: (-25.4089, 112.113, 46.8428)
+Hand pitch: 21.061377 degrees, roll: 3.065014 degrees, yaw: 9.490738 degrees
+Frame id: 56772, timestamp: 1414218298, hands: 1, fingers: 4, tools: 0, gestures: 0 
+Hand has 4 fingers, average finger tip position: (-9.45542, 131.278, -31.4409)
+Hand sphere radius: 78.932053 mm, palm position: (-25.5105, 112.404, 46.6829)
+Hand pitch: 21.067049 degrees, roll: 3.034778 degrees, yaw: 9.392052 degrees
+Frame id: 56774, timestamp: 1414242245, hands: 1, fingers: 4, tools: 0, gestures: 0 
+Hand has 4 fingers, average finger tip position: (-9.02602, 131.35, -31.6824)
+Hand sphere radius: 77.630707 mm, palm position: (-25.5241, 112.72, 46.4005)
+Hand pitch: 20.981194 degrees, roll: 3.121566 degrees, yaw: 9.307396 degrees
+Frame id: 56776, timestamp: 1414266584, hands: 1, fingers: 4, tools: 0, gestures: 0 
+Hand has 4 fingers, average finger tip position: (-8.58102, 131.305, -31.9932)
+Hand sphere radius: 75.792732 mm, palm position: (-25.477, 113.05, 45.9276)
+Hand pitch: 20.944492 degrees, roll: 3.227404 degrees, yaw: 9.253292 degrees
+Frame id: 56778, timestamp: 1414290258, hands: 1, fingers: 4, tools: 0, gestures: 0 
+Hand has 4 fingers, average finger tip position: (-8.19909, 130.896, -32.362)
+Hand sphere radius: 73.968277 mm, palm position: (-25.5446, 113.022, 46.063)
+Hand pitch: 21.031929 degrees, roll: 3.184465 degrees, yaw: 9.261892 degrees
+Frame id: 56780, timestamp: 1414314279, hands: 1, fingers: 4, tools: 0, gestures: 0 
+Hand has 4 fingers, average finger tip position: (-7.5715, 129.786, -32.7394)
+Hand sphere radius: 72.039444 mm, palm position: (-25.5848, 112.953, 46.0817)
+Hand pitch: 20.992471 degrees, roll: 3.264459 degrees, yaw: 9.306146 degrees
+Frame id: 56782, timestamp: 1414338293, hands: 1, fingers: 4, tools: 0, gestures: 0 
+Hand has 4 fingers, average finger tip position: (-6.53209, 127.748, -32.9308)
+Hand sphere radius: 69.637299 mm, palm position: (-25.4058, 112.803, 45.6623)
+Hand pitch: 20.960652 degrees, roll: 3.449672 degrees, yaw: 9.396686 degrees
+Frame id: 56784, timestamp: 1414362313, hands: 1, fingers: 4, tools: 0, gestures: 0 
+Hand has 4 fingers, average finger tip position: (-5.12218, 123.933, -32.2839)
+Hand sphere radius: 67.327110 mm, palm position: (-25.3249, 112.45, 45.8236)
+Hand pitch: 20.622266 degrees, roll: 3.638440 degrees, yaw: 9.542668 degrees
+Frame id: 56786, timestamp: 1414386261, hands: 1, fingers: 4, tools: 0, gestures: 0 
+Hand has 4 fingers, average finger tip position: (-4.10349, 118.433, -29.4713)
+Hand sphere radius: 67.211090 mm, palm position: (-25.1598, 110.91, 45.2971)
+Hand pitch: 19.442759 degrees, roll: 4.414711 degrees, yaw: 9.670617 degrees
+Frame id: 56788, timestamp: 1414410290, hands: 1, fingers: 4, tools: 0, gestures: 0 
+Hand has 4 fingers, average finger tip position: (-6.11751, 117.819, -22.2765)
+Hand sphere radius: 64.218201 mm, palm position: (-24.7257, 109.711, 45.4733)
+Hand pitch: 19.664789 degrees, roll: 4.447462 degrees, yaw: 9.906413 degrees
+Frame id: 56790, timestamp: 1414434304, hands: 1, fingers: 4, tools: 0, gestures: 0 
+Hand has 4 fingers, average finger tip position: (-8.60683, 117.985, -16.1996)
+Hand sphere radius: 61.668571 mm, palm position: (-24.1759, 108.904, 46.1122)
+Hand pitch: 19.876160 degrees, roll: 5.208988 degrees, yaw: 10.024254 degrees
+Frame id: 56792, timestamp: 1414458281, hands: 1, fingers: 3, tools: 0, gestures: 0 
+Hand has 3 fingers, average finger tip position: (1.59979, 127.988, -24.0236)
+Hand sphere radius: 59.507202 mm, palm position: (-24.2139, 108.557, 47.6518)
+Hand pitch: 19.707241 degrees, roll: 5.385299 degrees, yaw: 9.736795 degrees
+Frame id: 56794, timestamp: 1414482348, hands: 1, fingers: 3, tools: 0, gestures: 0 
+Hand has 3 fingers, average finger tip position: (-0.708079, 127.2, -22.66)
+Hand sphere radius: 57.741062 mm, palm position: (-24.1142, 108.756, 48.9245)
+Hand pitch: 19.919801 degrees, roll: 5.331047 degrees, yaw: 10.762417 degrees
+Frame id: 56796, timestamp: 1414506341, hands: 1, fingers: 3, tools: 0, gestures: 0 
+Hand has 3 fingers, average finger tip position: (-2.10595, 126.249, -22.0571)
+Hand sphere radius: 56.451317 mm, palm position: (-23.9944, 108.845, 50.1744)
+Hand pitch: 19.751830 degrees, roll: 5.104023 degrees, yaw: 11.213692 degrees
+Frame id: 56798, timestamp: 1414530365, hands: 1, fingers: 3, tools: 0, gestures: 0 
+Hand has 3 fingers, average finger tip position: (-2.62777, 125.168, -21.8348)
+Hand sphere radius: 55.404408 mm, palm position: (-23.6884, 108.767, 51.0304)
+Hand pitch: 19.634938 degrees, roll: 4.992188 degrees, yaw: 11.224201 degrees
+Frame id: 56800, timestamp: 1414554377, hands: 1, fingers: 3, tools: 0, gestures: 0 
+Hand has 3 fingers, average finger tip position: (-2.74981, 124.942, -20.2288)
+Hand sphere radius: 54.511818 mm, palm position: (-23.2625, 108.375, 51.6307)
+Hand pitch: 19.570121 degrees, roll: 5.020121 degrees, yaw: 10.992332 degrees
+Frame id: 56802, timestamp: 1414578397, hands: 1, fingers: 3, tools: 0, gestures: 0 
+Hand has 3 fingers, average finger tip position: (-2.05725, 124.257, -20.362)
+Hand sphere radius: 53.943851 mm, palm position: (-22.8279, 107.883, 51.9201)
+Hand pitch: 19.461801 degrees, roll: 5.127080 degrees, yaw: 10.721346 degrees
+Frame id: 56804, timestamp: 1414602377, hands: 1, fingers: 3, tools: 0, gestures: 0 
+Hand has 3 fingers, average finger tip position: (-1.34276, 123.67, -20.3464)
+Hand sphere radius: 53.398594 mm, palm position: (-22.5274, 107.302, 51.9988)
+Hand pitch: 19.405485 degrees, roll: 5.200670 degrees, yaw: 10.336754 degrees
+Frame id: 56806, timestamp: 1414626821, hands: 1, fingers: 3, tools: 0, gestures: 0 
+Hand has 3 fingers, average finger tip position: (-1.00336, 123.503, -19.3915)
+Hand sphere radius: 52.921028 mm, palm position: (-22.3721, 106.589, 52.1306)
+Hand pitch: 19.292433 degrees, roll: 5.244645 degrees, yaw: 10.079270 degrees
+Frame id: 56808, timestamp: 1414650392, hands: 1, fingers: 3, tools: 0, gestures: 0 
+Hand has 3 fingers, average finger tip position: (-0.490737, 122.862, -19.7943)
+Hand sphere radius: 52.394089 mm, palm position: (-22.2637, 105.99, 52.0064)
+Hand pitch: 19.198151 degrees, roll: 5.391414 degrees, yaw: 9.907100 degrees
+Frame id: 56810, timestamp: 1414674372, hands: 1, fingers: 3, tools: 0, gestures: 0 
+Hand has 3 fingers, average finger tip position: (-0.23694, 122.448, -20.0531)
+Hand sphere radius: 52.042645 mm, palm position: (-22.2443, 105.502, 51.9677)
+Hand pitch: 19.067283 degrees, roll: 5.567671 degrees, yaw: 9.678581 degrees
+Frame id: 56812, timestamp: 1414698409, hands: 1, fingers: 3, tools: 0, gestures: 0 
+Hand has 3 fingers, average finger tip position: (-0.217014, 122.258, -20.2761)
+Hand sphere radius: 51.766224 mm, palm position: (-22.2815, 105.263, 51.9156)
+Hand pitch: 19.014229 degrees, roll: 5.655878 degrees, yaw: 9.563532 degrees
+Frame id: 56814, timestamp: 1414722409, hands: 1, fingers: 3, tools: 0, gestures: 0 
+Hand has 3 fingers, average finger tip position: (-0.397584, 122.324, -20.5493)
+Hand sphere radius: 51.543568 mm, palm position: (-22.3649, 105.224, 51.8954)
+Hand pitch: 19.009721 degrees, roll: 5.718104 degrees, yaw: 9.510805 degrees
+Frame id: 56816, timestamp: 1414747156, hands: 1, fingers: 3, tools: 0, gestures: 0 
+Hand has 3 fingers, average finger tip position: (-0.751733, 122.639, -20.8286)
+Hand sphere radius: 51.301270 mm, palm position: (-22.4435, 105.497, 51.5279)
+Hand pitch: 19.198364 degrees, roll: 5.855794 degrees, yaw: 9.487859 degrees
+Frame id: 56818, timestamp: 1414770440, hands: 1, fingers: 3, tools: 0, gestures: 0 
+Hand has 3 fingers, average finger tip position: (-1.06194, 123.106, -21.0396)
+Hand sphere radius: 51.133503 mm, palm position: (-22.5876, 105.949, 51.2483)
+Hand pitch: 19.272955 degrees, roll: 5.947306 degrees, yaw: 9.487485 degrees
+Frame id: 56820, timestamp: 1414794448, hands: 1, fingers: 3, tools: 0, gestures: 0 
+Hand has 3 fingers, average finger tip position: (-1.17909, 123.636, -21.1827)
+Hand sphere radius: 50.972256 mm, palm position: (-22.6885, 106.408, 51.0383)
+Hand pitch: 19.439116 degrees, roll: 6.008191 degrees, yaw: 9.482894 degrees
+Frame id: 56822, timestamp: 1414818446, hands: 1, fingers: 3, tools: 0, gestures: 0 
+Hand has 3 fingers, average finger tip position: (-1.14455, 124.132, -21.217)
+Hand sphere radius: 50.940170 mm, palm position: (-22.8792, 106.702, 51.3679)
+Hand pitch: 19.538813 degrees, roll: 5.974498 degrees, yaw: 9.504714 degrees
+Frame id: 56824, timestamp: 1414842398, hands: 1, fingers: 3, tools: 0, gestures: 0 
+Hand has 3 fingers, average finger tip position: (-1.00568, 124.692, -21.3071)
+Hand sphere radius: 50.861607 mm, palm position: (-22.9209, 107.024, 51.5321)
+Hand pitch: 19.608737 degrees, roll: 5.963762 degrees, yaw: 9.527349 degrees
+Frame id: 56826, timestamp: 1414866396, hands: 1, fingers: 3, tools: 0, gestures: 0 
+Hand has 3 fingers, average finger tip position: (-0.734389, 125.317, -21.394)
+Hand sphere radius: 50.857441 mm, palm position: (-22.7815, 107.431, 51.2912)
+Hand pitch: 19.641703 degrees, roll: 5.912465 degrees, yaw: 9.564923 degrees
+Frame id: 56828, timestamp: 1414890456, hands: 1, fingers: 3, tools: 0, gestures: 0 
+Hand has 3 fingers, average finger tip position: (-0.268945, 126.11, -21.5099)
+Hand sphere radius: 51.058037 mm, palm position: (-22.696, 107.809, 51.208)
+Hand pitch: 19.735972 degrees, roll: 5.718952 degrees, yaw: 9.638848 degrees
+Frame id: 56830, timestamp: 1414914460, hands: 1, fingers: 3, tools: 0, gestures: 0 
+Hand has 3 fingers, average finger tip position: (0.377241, 127.521, -21.7186)
+Hand sphere radius: 51.096264 mm, palm position: (-22.5773, 108.243, 50.9545)
+Hand pitch: 20.035853 degrees, roll: 5.228690 degrees, yaw: 9.801642 degrees
+Frame id: 56832, timestamp: 1414938468, hands: 1, fingers: 2, tools: 0, gestures: 0 
+Hand has 2 fingers, average finger tip position: (19.2967, 139.64, -35.767)
+Hand sphere radius: 51.516045 mm, palm position: (-22.5277, 108.713, 50.5692)
+Hand pitch: 21.023572 degrees, roll: 4.463533 degrees, yaw: 10.111963 degrees
+Frame id: 56834, timestamp: 1414962458, hands: 1, fingers: 2, tools: 0, gestures: 0 
+Hand has 2 fingers, average finger tip position: (20.2826, 140.238, -35.2607)
+Hand sphere radius: 52.554989 mm, palm position: (-22.9969, 108.849, 49.7561)
+Hand pitch: 21.291727 degrees, roll: 3.954584 degrees, yaw: 12.052033 degrees
+Frame id: 56836, timestamp: 1414986437, hands: 1, fingers: 2, tools: 0, gestures: 0 
+Hand has 2 fingers, average finger tip position: (21.5856, 138.884, -34.953)
+Hand sphere radius: 53.465385 mm, palm position: (-23.1555, 108.311, 48.6102)
+Hand pitch: 21.556337 degrees, roll: 3.324537 degrees, yaw: 13.735582 degrees
+Frame id: 56838, timestamp: 1415010436, hands: 1, fingers: 3, tools: 0, gestures: 0 
+Hand has 3 fingers, average finger tip position: (4.13364, 134.339, -39.1825)
+Hand sphere radius: 53.951252 mm, palm position: (-23.2823, 107.526, 47.8734)
+Hand pitch: 21.606044 degrees, roll: 2.659603 degrees, yaw: 15.347218 degrees
+Frame id: 56840, timestamp: 1415034490, hands: 1, fingers: 3, tools: 0, gestures: 0 
+Hand has 3 fingers, average finger tip position: (4.55179, 134.323, -39.2516)
+Hand sphere radius: 54.277050 mm, palm position: (-23.4226, 107.046, 47.3079)
+Hand pitch: 21.630533 degrees, roll: 1.988495 degrees, yaw: 15.614588 degrees
+Frame id: 56842, timestamp: 1415058674, hands: 1, fingers: 3, tools: 0, gestures: 0 
+Hand has 3 fingers, average finger tip position: (4.836, 134.158, -39.3259)
+Hand sphere radius: 54.677158 mm, palm position: (-23.3679, 106.716, 46.6815)
+Hand pitch: 21.665997 degrees, roll: 1.541879 degrees, yaw: 15.960752 degrees
+Frame id: 56844, timestamp: 1415082460, hands: 1, fingers: 3, tools: 0, gestures: 0 
+Hand has 3 fingers, average finger tip position: (5.3591, 133.621, -39.4363)
+Hand sphere radius: 54.994316 mm, palm position: (-23.1901, 106.253, 46.3879)
+Hand pitch: 21.667488 degrees, roll: 1.346955 degrees, yaw: 16.205608 degrees
+Frame id: 56846, timestamp: 1415106549, hands: 1, fingers: 3, tools: 0, gestures: 0 
+Hand has 3 fingers, average finger tip position: (6.06731, 132.85, -39.4304)
+Hand sphere radius: 55.224571 mm, palm position: (-22.9024, 105.817, 46.2204)
+Hand pitch: 21.553135 degrees, roll: 1.218488 degrees, yaw: 16.421172 degrees
+Frame id: 56848, timestamp: 1415130462, hands: 1, fingers: 3, tools: 0, gestures: 0 
+Hand has 3 fingers, average finger tip position: (6.71722, 132.37, -39.3528)
+Hand sphere radius: 54.920200 mm, palm position: (-22.5082, 105.574, 46.0507)
+Hand pitch: 21.478966 degrees, roll: 1.092912 degrees, yaw: 16.660568 degrees
+Frame id: 56850, timestamp: 1415154470, hands: 1, fingers: 3, tools: 0, gestures: 0 
+Hand has 3 fingers, average finger tip position: (7.35831, 132.032, -39.1806)
+Hand sphere radius: 54.771999 mm, palm position: (-22.1683, 105.42, 46.1675)
+Hand pitch: 21.382778 degrees, roll: 1.008521 degrees, yaw: 16.854942 degrees
+Frame id: 56852, timestamp: 1415178490, hands: 1, fingers: 3, tools: 0, gestures: 0 
+Hand has 3 fingers, average finger tip position: (8.01402, 131.66, -39.0364)
+Hand sphere radius: 54.629356 mm, palm position: (-21.831, 105.249, 46.3294)
+Hand pitch: 21.257613 degrees, roll: 0.924503 degrees, yaw: 17.036737 degrees
+Frame id: 56854, timestamp: 1415202511, hands: 1, fingers: 3, tools: 0, gestures: 0 
+Hand has 3 fingers, average finger tip position: (8.59459, 131.124, -38.887)
+Hand sphere radius: 54.542267 mm, palm position: (-21.5161, 104.963, 46.5161)
+Hand pitch: 21.194661 degrees, roll: 0.916131 degrees, yaw: 17.190132 degrees
+Frame id: 56856, timestamp: 1415226474, hands: 1, fingers: 3, tools: 0, gestures: 0 
+Hand has 3 fingers, average finger tip position: (9.01156, 130.657, -38.8082)
+Hand sphere radius: 54.444286 mm, palm position: (-21.2298, 104.743, 46.3845)
+Hand pitch: 21.131183 degrees, roll: 0.959692 degrees, yaw: 17.361863 degrees
+Frame id: 56858, timestamp: 1415250571, hands: 1, fingers: 3, tools: 0, gestures: 0 
+Hand has 3 fingers, average finger tip position: (9.25119, 130.382, -38.7442)
+Hand sphere radius: 54.503414 mm, palm position: (-21.1122, 104.515, 46.4474)
+Hand pitch: 21.074971 degrees, roll: 0.946531 degrees, yaw: 17.543831 degrees
+Frame id: 56860, timestamp: 1415274505, hands: 1, fingers: 3, tools: 0, gestures: 0 
+Hand has 3 fingers, average finger tip position: (9.35786, 130.229, -38.697)
+Hand sphere radius: 54.369938 mm, palm position: (-21.1006, 104.342, 46.4683)
+Hand pitch: 21.033020 degrees, roll: 1.005076 degrees, yaw: 17.722032 degrees
+Frame id: 56862, timestamp: 1415298552, hands: 1, fingers: 3, tools: 0, gestures: 0 
+Hand has 3 fingers, average finger tip position: (9.29893, 130.142, -38.7223)
+Hand sphere radius: 54.447433 mm, palm position: (-21.219, 104.208, 46.5178)
+Hand pitch: 21.042498 degrees, roll: 1.061982 degrees, yaw: 17.888699 degrees
+Frame id: 56864, timestamp: 1415322537, hands: 1, fingers: 3, tools: 0, gestures: 0 
+Hand has 3 fingers, average finger tip position: (9.05864, 130.135, -38.7739)
+Hand sphere radius: 54.397854 mm, palm position: (-21.3207, 104.203, 46.2477)
+Hand pitch: 21.021291 degrees, roll: 1.182828 degrees, yaw: 18.029796 degrees
+Frame id: 56866, timestamp: 1415346534, hands: 1, fingers: 3, tools: 0, gestures: 0 
+Hand has 3 fingers, average finger tip position: (8.60341, 130.264, -38.8212)
+Hand sphere radius: 54.405529 mm, palm position: (-21.5854, 104.145, 46.3727)
+Hand pitch: 21.024571 degrees, roll: 1.314681 degrees, yaw: 18.150581 degrees
+Frame id: 56868, timestamp: 1415370527, hands: 1, fingers: 3, tools: 0, gestures: 0 
+Hand has 3 fingers, average finger tip position: (8.1839, 130.595, -38.8944)
+Hand sphere radius: 54.540436 mm, palm position: (-21.7771, 104.39, 46.2286)
+Hand pitch: 21.123817 degrees, roll: 1.382988 degrees, yaw: 18.317330 degrees
+Frame id: 56870, timestamp: 1415394591, hands: 1, fingers: 3, tools: 0, gestures: 0 
+Hand has 3 fingers, average finger tip position: (7.86828, 131.107, -38.8257)
+Hand sphere radius: 54.571171 mm, palm position: (-21.9915, 104.652, 46.3489)
+Hand pitch: 21.190814 degrees, roll: 1.432050 degrees, yaw: 18.445790 degrees
+Frame id: 56872, timestamp: 1415418589, hands: 1, fingers: 3, tools: 0, gestures: 0 
+Hand has 3 fingers, average finger tip position: (7.67059, 131.676, -38.7613)
+Hand sphere radius: 55.056435 mm, palm position: (-22.209, 104.783, 46.8238)
+Hand pitch: 21.236699 degrees, roll: 1.451414 degrees, yaw: 18.516266 degrees
+Frame id: 56874, timestamp: 1415442542, hands: 1, fingers: 3, tools: 0, gestures: 0 
+Hand has 3 fingers, average finger tip position: (7.55999, 132.125, -38.6478)
+Hand sphere radius: 55.563683 mm, palm position: (-22.3267, 104.87, 47.2932)
+Hand pitch: 21.327621 degrees, roll: 1.477081 degrees, yaw: 18.557634 degrees
+Frame id: 56876, timestamp: 1415466602, hands: 1, fingers: 3, tools: 0, gestures: 0 
+Hand has 3 fingers, average finger tip position: (7.41186, 132.583, -38.5317)
+Hand sphere radius: 55.887722 mm, palm position: (-22.3395, 105.042, 47.4332)
+Hand pitch: 21.414224 degrees, roll: 1.440832 degrees, yaw: 18.597979 degrees
+Frame id: 56878, timestamp: 1415490623, hands: 1, fingers: 3, tools: 0, gestures: 0 
+Hand has 3 fingers, average finger tip position: (7.21958, 133.151, -38.4216)
+Hand sphere radius: 55.641727 mm, palm position: (-22.2759, 105.397, 47.1848)
+Hand pitch: 21.472699 degrees, roll: 1.365776 degrees, yaw: 18.637495 degrees
+Frame id: 56880, timestamp: 1415514616, hands: 1, fingers: 3, tools: 0, gestures: 0 
+Hand has 3 fingers, average finger tip position: (7.01788, 133.887, -38.2989)
+Hand sphere radius: 55.528378 mm, palm position: (-22.268, 105.771, 47.0704)
+Hand pitch: 21.614417 degrees, roll: 1.318572 degrees, yaw: 18.691933 degrees
+Frame id: 56882, timestamp: 1415538597, hands: 1, fingers: 3, tools: 0, gestures: 0 
+Hand has 3 fingers, average finger tip position: (6.8669, 134.524, -38.1683)
+Hand sphere radius: 55.368114 mm, palm position: (-22.2947, 106.204, 46.864)
+Hand pitch: 21.757421 degrees, roll: 1.213471 degrees, yaw: 18.729784 degrees
+Frame id: 56884, timestamp: 1415562634, hands: 1, fingers: 3, tools: 0, gestures: 0 
+Hand has 3 fingers, average finger tip position: (6.74775, 134.792, -38.1073)
+Hand sphere radius: 55.351120 mm, palm position: (-22.3661, 106.324, 46.8577)
+Hand pitch: 21.867327 degrees, roll: 1.220206 degrees, yaw: 18.749334 degrees
+Frame id: 56886, timestamp: 1415586638, hands: 1, fingers: 3, tools: 0, gestures: 0 
+Hand has 3 fingers, average finger tip position: (6.55961, 134.851, -38.1411)
+Hand sphere radius: 55.612919 mm, palm position: (-22.51, 106.128, 47.2444)
+Hand pitch: 21.911150 degrees, roll: 1.306249 degrees, yaw: 18.726306 degrees
+Frame id: 56888, timestamp: 1415610670, hands: 1, fingers: 3, tools: 0, gestures: 0 
+Hand has 3 fingers, average finger tip position: (6.21701, 134.988, -38.2251)
+Hand sphere radius: 56.014095 mm, palm position: (-22.7133, 105.931, 47.7248)
+Hand pitch: 22.004324 degrees, roll: 1.321328 degrees, yaw: 18.715721 degrees
+Frame id: 56890, timestamp: 1415634579, hands: 1, fingers: 3, tools: 0, gestures: 0 
+Hand has 3 fingers, average finger tip position: (5.73742, 135.293, -38.281)
+Hand sphere radius: 56.379879 mm, palm position: (-22.8874, 105.916, 47.8743)
+Hand pitch: 22.144693 degrees, roll: 1.336063 degrees, yaw: 18.710631 degrees
+Frame id: 56892, timestamp: 1415658786, hands: 1, fingers: 3, tools: 0, gestures: 0 
+Hand has 3 fingers, average finger tip position: (5.1765, 135.646, -38.3094)
+Hand sphere radius: 56.850109 mm, palm position: (-23.1464, 106.011, 48.1535)
+Hand pitch: 22.373046 degrees, roll: 1.337057 degrees, yaw: 18.708185 degrees
+Frame id: 56894, timestamp: 1415682626, hands: 1, fingers: 3, tools: 0, gestures: 0 
+Hand has 3 fingers, average finger tip position: (4.68072, 135.882, -38.3238)
+Hand sphere radius: 57.252033 mm, palm position: (-23.3526, 106.155, 48.3401)
+Hand pitch: 22.629189 degrees, roll: 1.363466 degrees, yaw: 18.680856 degrees
+Frame id: 56896, timestamp: 1415706664, hands: 1, fingers: 3, tools: 0, gestures: 0 
+Hand has 3 fingers, average finger tip position: (4.43219, 135.919, -38.3585)
+Hand sphere radius: 57.632179 mm, palm position: (-23.4354, 106.245, 48.4342)
+Hand pitch: 22.791194 degrees, roll: 1.362791 degrees, yaw: 18.623553 degrees
+Frame id: 56898, timestamp: 1415730684, hands: 1, fingers: 3, tools: 0, gestures: 0 
+Hand has 3 fingers, average finger tip position: (4.32715, 135.718, -38.3514)
+Hand sphere radius: 57.921566 mm, palm position: (-23.4619, 106.273, 48.5921)
+Hand pitch: 22.900096 degrees, roll: 1.168841 degrees, yaw: 18.580210 degrees
+Frame id: 56900, timestamp: 1415754701, hands: 1, fingers: 3, tools: 0, gestures: 0 
+Hand has 3 fingers, average finger tip position: (4.17713, 135.529, -38.4345)
+Hand sphere radius: 58.319149 mm, palm position: (-23.4433, 106.257, 48.6873)
+Hand pitch: 22.992287 degrees, roll: 0.870264 degrees, yaw: 18.534784 degrees
+Frame id: 56902, timestamp: 1415778700, hands: 1, fingers: 3, tools: 0, gestures: 0 
+Hand has 3 fingers, average finger tip position: (3.94994, 135.575, -38.453)
+Hand sphere radius: 58.758877 mm, palm position: (-23.3895, 106.414, 48.5343)
+Hand pitch: 23.085104 degrees, roll: 0.527675 degrees, yaw: 18.507241 degrees
+Frame id: 56904, timestamp: 1415802707, hands: 1, fingers: 3, tools: 0, gestures: 0 
+Hand has 3 fingers, average finger tip position: (3.87255, 135.776, -38.3444)
+Hand sphere radius: 58.752899 mm, palm position: (-23.185, 106.945, 47.8003)
+Hand pitch: 23.210732 degrees, roll: 0.077005 degrees, yaw: 18.488137 degrees
+Frame id: 56906, timestamp: 1415826641, hands: 1, fingers: 3, tools: 0, gestures: 0 
+Hand has 3 fingers, average finger tip position: (3.97811, 135.934, -38.104)
+Hand sphere radius: 59.378185 mm, palm position: (-23.119, 107.257, 47.8741)
+Hand pitch: 23.454703 degrees, roll: -0.575955 degrees, yaw: 18.499183 degrees
+Frame id: 56908, timestamp: 1415850728, hands: 1, fingers: 3, tools: 0, gestures: 0 
+Hand has 3 fingers, average finger tip position: (4.2006, 135.91, -37.9558)
+Hand sphere radius: 59.695065 mm, palm position: (-23.1646, 107.521, 48.031)
+Hand pitch: 23.792720 degrees, roll: -1.177895 degrees, yaw: 18.540412 degrees
+Frame id: 56910, timestamp: 1415874715, hands: 1, fingers: 3, tools: 0, gestures: 0 
+Hand has 3 fingers, average finger tip position: (4.49429, 135.428, -37.8023)
+Hand sphere radius: 58.808350 mm, palm position: (-23.4713, 107.521, 47.4394)
+Hand pitch: 23.455193 degrees, roll: -1.342255 degrees, yaw: 18.468523 degrees
+Frame id: 56912, timestamp: 1415898779, hands: 1, fingers: 3, tools: 0, gestures: 0 
+Hand has 3 fingers, average finger tip position: (4.97749, 133.882, -37.747)
+Hand sphere radius: 59.760788 mm, palm position: (-23.1894, 107.619, 47.719)
+Hand pitch: 23.328788 degrees, roll: -1.860976 degrees, yaw: 18.493079 degrees
+Frame id: 56914, timestamp: 1415922724, hands: 1, fingers: 3, tools: 0, gestures: 0 
+Hand has 3 fingers, average finger tip position: (5.66899, 131.051, -37.6564)
+Hand sphere radius: 66.815269 mm, palm position: (-22.9742, 107.638, 48.4136)
+Hand pitch: 23.161196 degrees, roll: -2.872207 degrees, yaw: 18.581875 degrees
+Frame id: 56916, timestamp: 1415946693, hands: 1, fingers: 3, tools: 0, gestures: 0 
+Hand has 3 fingers, average finger tip position: (6.13885, 127.97, -37.4851)
+Hand sphere radius: 71.671776 mm, palm position: (-22.695, 107.741, 49.2078)
+Hand pitch: 23.001738 degrees, roll: -4.115474 degrees, yaw: 18.739729 degrees
+Frame id: 56918, timestamp: 1415970711, hands: 1, fingers: 4, tools: 0, gestures: 0 
+Hand has 4 fingers, average finger tip position: (-11.7829, 131.489, -31.1777)
+Hand sphere radius: 74.524673 mm, palm position: (-22.4089, 108.007, 49.7209)
+Hand pitch: 23.179308 degrees, roll: -5.179068 degrees, yaw: 19.008968 degrees
+Frame id: 56920, timestamp: 1415994693, hands: 1, fingers: 4, tools: 0, gestures: 0 
+Hand has 4 fingers, average finger tip position: (-11.5436, 130.631, -30.4249)
+Hand sphere radius: 76.017265 mm, palm position: (-22.0676, 108.325, 50.3296)
+Hand pitch: 23.256632 degrees, roll: -5.812138 degrees, yaw: 17.694225 degrees
+Frame id: 56922, timestamp: 1416018720, hands: 1, fingers: 4, tools: 0, gestures: 0 
+Hand has 4 fingers, average finger tip position: (-10.825, 129.376, -29.7178)
+Hand sphere radius: 77.416397 mm, palm position: (-21.478, 108.536, 50.8668)
+Hand pitch: 23.431982 degrees, roll: -6.197335 degrees, yaw: 16.517996 degrees
+Frame id: 56924, timestamp: 1416042732, hands: 1, fingers: 4, tools: 0, gestures: 0 
+Hand has 4 fingers, average finger tip position: (-9.67202, 128.098, -29.0028)
+Hand sphere radius: 77.943420 mm, palm position: (-20.6886, 108.347, 51.4861)
+Hand pitch: 23.477017 degrees, roll: -6.403983 degrees, yaw: 15.480732 degrees
+Frame id: 56926, timestamp: 1416066724, hands: 1, fingers: 4, tools: 0, gestures: 0 
+Hand has 4 fingers, average finger tip position: (-8.65709, 126.909, -28.3958)
+Hand sphere radius: 78.192574 mm, palm position: (-20.2866, 108.416, 51.5006)
+Hand pitch: 23.315198 degrees, roll: -6.419112 degrees, yaw: 14.593430 degrees
+Frame id: 56928, timestamp: 1416090774, hands: 1, fingers: 4, tools: 0, gestures: 0 
+Hand has 4 fingers, average finger tip position: (-8.25171, 126.309, -27.9101)
+Hand sphere radius: 78.155975 mm, palm position: (-19.9721, 108.4, 51.8329)
+Hand pitch: 23.126783 degrees, roll: -6.348754 degrees, yaw: 13.843655 degrees
+Frame id: 56930, timestamp: 1416114812, hands: 1, fingers: 4, tools: 0, gestures: 0 
+Hand has 4 fingers, average finger tip position: (-8.01254, 126.121, -27.5098)
+Hand sphere radius: 77.796455 mm, palm position: (-19.7412, 108.411, 52.1502)
+Hand pitch: 23.001280 degrees, roll: -6.311451 degrees, yaw: 13.313096 degrees
+Frame id: 56932, timestamp: 1416139277, hands: 1, fingers: 4, tools: 0, gestures: 0 
+Hand has 4 fingers, average finger tip position: (-7.59159, 126.079, -27.1507)
+Hand sphere radius: 77.241699 mm, palm position: (-19.5456, 108.434, 52.2762)
+Hand pitch: 22.971226 degrees, roll: -6.285279 degrees, yaw: 12.881264 degrees
+Frame id: 56934, timestamp: 1416162798, hands: 1, fingers: 4, tools: 0, gestures: 0 
+Hand has 4 fingers, average finger tip position: (-7.14588, 125.951, -26.9228)
+Hand sphere radius: 77.178192 mm, palm position: (-19.4261, 108.395, 52.1568)
+Hand pitch: 22.876952 degrees, roll: -6.243427 degrees, yaw: 12.465401 degrees
+Frame id: 56936, timestamp: 1416186784, hands: 1, fingers: 4, tools: 0, gestures: 0 
+Hand has 4 fingers, average finger tip position: (-6.88397, 126.038, -27.0038)
+Hand sphere radius: 76.981789 mm, palm position: (-19.3849, 108.183, 51.9822)
+Hand pitch: 22.743511 degrees, roll: -6.108949 degrees, yaw: 12.129328 degrees
+Frame id: 56938, timestamp: 1416210823, hands: 1, fingers: 4, tools: 0, gestures: 0 
+Hand has 4 fingers, average finger tip position: (-6.79603, 125.895, -27.0361)
+Hand sphere radius: 76.245583 mm, palm position: (-19.0882, 107.597, 52.1863)
+Hand pitch: 22.831309 degrees, roll: -5.947176 degrees, yaw: 11.901605 degrees
+Frame id: 56940, timestamp: 1416234831, hands: 1, fingers: 4, tools: 0, gestures: 0 
+Hand has 4 fingers, average finger tip position: (-6.86124, 125.767, -27.1332)
+Hand sphere radius: 75.118164 mm, palm position: (-18.9709, 107.277, 52.0182)
+Hand pitch: 22.633888 degrees, roll: -5.837523 degrees, yaw: 11.649835 degrees
+Frame id: 56942, timestamp: 1416258843, hands: 1, fingers: 4, tools: 0, gestures: 0 
+Hand has 4 fingers, average finger tip position: (-6.91189, 125.699, -27.259)
+Hand sphere radius: 74.582726 mm, palm position: (-19.0084, 107.056, 51.9845)
+Hand pitch: 22.483497 degrees, roll: -5.706676 degrees, yaw: 11.425476 degrees
+Frame id: 56944, timestamp: 1416282793, hands: 1, fingers: 3, tools: 0, gestures: 0 
+Hand has 3 fingers, average finger tip position: (-2.12018, 126.364, -22.1973)
+Hand sphere radius: 75.115257 mm, palm position: (-19.0785, 107.009, 51.9135)
+Hand pitch: 22.625226 degrees, roll: -5.653529 degrees, yaw: 11.297290 degrees
+Frame id: 56946, timestamp: 1416306860, hands: 1, fingers: 3, tools: 0, gestures: 0 
+Hand has 3 fingers, average finger tip position: (-2.29527, 126.519, -22.3013)
+Hand sphere radius: 75.935089 mm, palm position: (-19.1911, 107.058, 51.8887)
+Hand pitch: 22.516593 degrees, roll: -5.597250 degrees, yaw: 11.557937 degrees
+Frame id: 56948, timestamp: 1416330831, hands: 1, fingers: 3, tools: 0, gestures: 0 
+Hand has 3 fingers, average finger tip position: (-2.47105, 126.681, -22.4401)
+Hand sphere radius: 74.916695 mm, palm position: (-19.269, 107.18, 51.753)
+Hand pitch: 22.492836 degrees, roll: -5.549388 degrees, yaw: 11.786434 degrees
+Frame id: 56950, timestamp: 1416354859, hands: 1, fingers: 4, tools: 0, gestures: 0 
+Hand has 4 fingers, average finger tip position: (-7.17661, 126.784, -27.7872)
+Hand sphere radius: 74.438286 mm, palm position: (-19.3479, 107.295, 51.6168)
+Hand pitch: 22.468517 degrees, roll: -5.481396 degrees, yaw: 11.976229 degrees
+Frame id: 56952, timestamp: 1416378802, hands: 1, fingers: 4, tools: 0, gestures: 0 
+Hand has 4 fingers, average finger tip position: (-7.11104, 126.836, -27.998)
+Hand sphere radius: 74.516769 mm, palm position: (-19.3485, 107.362, 51.416)
+Hand pitch: 22.615267 degrees, roll: -5.362303 degrees, yaw: 11.820401 degrees
+Frame id: 56954, timestamp: 1416402810, hands: 1, fingers: 4, tools: 0, gestures: 0 
+Hand has 4 fingers, average finger tip position: (-6.99044, 126.946, -28.2984)
+Hand sphere radius: 75.046516 mm, palm position: (-19.3317, 107.411, 51.2497)
+Hand pitch: 22.590644 degrees, roll: -5.286562 degrees, yaw: 11.651629 degrees
+Frame id: 56956, timestamp: 1416426864, hands: 1, fingers: 4, tools: 0, gestures: 0 
+Hand has 4 fingers, average finger tip position: (-6.92679, 127.232, -28.6131)
+Hand sphere radius: 75.990685 mm, palm position: (-19.2984, 107.448, 51.0208)
+Hand pitch: 22.644014 degrees, roll: -5.193413 degrees, yaw: 11.517267 degrees
+Frame id: 56958, timestamp: 1416450822, hands: 1, fingers: 4, tools: 0, gestures: 0 
+Hand has 4 fingers, average finger tip position: (-6.93067, 127.679, -28.9359)
+Hand sphere radius: 77.004883 mm, palm position: (-19.2757, 107.488, 50.8038)
+Hand pitch: 22.836897 degrees, roll: -5.113780 degrees, yaw: 11.430917 degrees
+Frame id: 56960, timestamp: 1416474845, hands: 1, fingers: 4, tools: 0, gestures: 0 
+Hand has 4 fingers, average finger tip position: (-6.9468, 128.096, -29.3348)
+Hand sphere radius: 78.221466 mm, palm position: (-19.2395, 107.52, 50.6161)
+Hand pitch: 23.030478 degrees, roll: -5.032765 degrees, yaw: 11.356287 degrees
+Frame id: 56962, timestamp: 1416498865, hands: 1, fingers: 4, tools: 0, gestures: 0 
+Hand has 4 fingers, average finger tip position: (-6.83945, 128.255, -29.7047)
+Hand sphere radius: 79.569618 mm, palm position: (-19.1038, 107.53, 50.3606)
+Hand pitch: 23.188426 degrees, roll: -4.914286 degrees, yaw: 11.256453 degrees
+Frame id: 56964, timestamp: 1416522913, hands: 1, fingers: 4, tools: 0, gestures: 0 
+Hand has 4 fingers, average finger tip position: (-6.55159, 128.22, -30.0156)
+Hand sphere radius: 80.978065 mm, palm position: (-18.826, 107.473, 50.1741)
+Hand pitch: 23.428628 degrees, roll: -4.758562 degrees, yaw: 11.139924 degrees
+Frame id: 56966, timestamp: 1416546902, hands: 1, fingers: 4, tools: 0, gestures: 0 
+Hand has 4 fingers, average finger tip position: (-6.09681, 128.216, -30.2153)
+Hand sphere radius: 82.312767 mm, palm position: (-18.3741, 107.466, 50.0118)
+Hand pitch: 23.677278 degrees, roll: -4.584768 degrees, yaw: 11.005288 degrees
+Frame id: 56968, timestamp: 1416570921, hands: 1, fingers: 4, tools: 0, gestures: 0 
+Hand has 4 fingers, average finger tip position: (-5.39616, 128.229, -30.2578)
+Hand sphere radius: 83.537613 mm, palm position: (-17.7602, 107.4, 50.1485)
+Hand pitch: 24.003250 degrees, roll: -4.389431 degrees, yaw: 10.886507 degrees
+Frame id: 56970, timestamp: 1416594876, hands: 1, fingers: 4, tools: 0, gestures: 0 
+Hand has 4 fingers, average finger tip position: (-4.15801, 127.961, -30.1369)
+Hand sphere radius: 83.946999 mm, palm position: (-16.9026, 107.205, 50.4177)
+Hand pitch: 24.294802 degrees, roll: -4.321466 degrees, yaw: 10.776936 degrees
+Frame id: 56972, timestamp: 1416618914, hands: 1, fingers: 4, tools: 0, gestures: 0 
+Hand has 4 fingers, average finger tip position: (-1.92163, 126.898, -29.7554)
+Hand sphere radius: 83.130371 mm, palm position: (-15.5143, 106.74, 51.0632)
+Hand pitch: 24.440700 degrees, roll: -4.433582 degrees, yaw: 10.666053 degrees
+Frame id: 56974, timestamp: 1416642921, hands: 1, fingers: 4, tools: 0, gestures: 0 
+Hand has 4 fingers, average finger tip position: (1.30833, 124.861, -29.2865)
+Hand sphere radius: 80.654274 mm, palm position: (-13.3854, 106.044, 51.7092)
+Hand pitch: 24.318298 degrees, roll: -4.455075 degrees, yaw: 10.447416 degrees
+Frame id: 56976, timestamp: 1416667217, hands: 1, fingers: 4, tools: 0, gestures: 0 
+Hand has 4 fingers, average finger tip position: (5.63426, 122.379, -28.1449)
+Hand sphere radius: 77.285507 mm, palm position: (-10.5535, 104.857, 53.4278)
+Hand pitch: 23.910829 degrees, roll: -4.482187 degrees, yaw: 10.259040 degrees
+Frame id: 56978, timestamp: 1416690966, hands: 1, fingers: 3, tools: 0, gestures: 0 
+Hand has 3 fingers, average finger tip position: (13.2351, 118.97, -23.029)
+Hand sphere radius: 74.106445 mm, palm position: (-7.35291, 103.609, 55.6746)
+Hand pitch: 23.334114 degrees, roll: -4.404472 degrees, yaw: 10.092748 degrees
+Frame id: 56980, timestamp: 1416714911, hands: 1, fingers: 3, tools: 0, gestures: 0 
+Hand has 3 fingers, average finger tip position: (19.6835, 115.141, -19.97)
+Hand sphere radius: 71.566811 mm, palm position: (-4.15536, 102.349, 57.2405)
+Hand pitch: 22.553992 degrees, roll: -4.219949 degrees, yaw: 10.263703 degrees
+Frame id: 56982, timestamp: 1416738894, hands: 1, fingers: 2, tools: 0, gestures: 0 
+Hand has 2 fingers, average finger tip position: (45.0207, 114.391, -15.7895)
+Hand sphere radius: 72.064529 mm, palm position: (0.813074, 111.153, 63.1344)
+Hand pitch: 22.417658 degrees, roll: 5.772598 degrees, yaw: 8.910727 degrees
+Frame id: 56984, timestamp: 1416762920, hands: 1, fingers: 2, tools: 0, gestures: 0 
+Hand has 2 fingers, average finger tip position: (50.8536, 111.08, -6.99777)
+Hand sphere radius: 73.090729 mm, palm position: (8.25165, 118.111, 67.8916)
+Hand pitch: 24.024236 degrees, roll: 12.761836 degrees, yaw: 9.235988 degrees
+Frame id: 56986, timestamp: 1416786963, hands: 1, fingers: 2, tools: 0, gestures: 0 
+Hand has 2 fingers, average finger tip position: (56.6635, 106.662, 11.0313)
+Hand sphere radius: 71.467903 mm, palm position: (12.4092, 113.273, 69.7672)
+Hand pitch: 23.276091 degrees, roll: 10.634998 degrees, yaw: 11.738338 degrees
+Frame id: 56988, timestamp: 1416810945, hands: 1, fingers: 2, tools: 0, gestures: 0 
+Hand has 2 fingers, average finger tip position: (64.0561, 101.54, 24.9737)
+Hand sphere radius: 69.865814 mm, palm position: (19.317, 106.449, 72.5235)
+Hand pitch: 22.906793 degrees, roll: 8.960812 degrees, yaw: 14.288677 degrees
+Frame id: 56990, timestamp: 1416834944, hands: 1, fingers: 2, tools: 0, gestures: 0 
+Hand has 2 fingers, average finger tip position: (73.8158, 98.1545, 38.3901)
+Hand sphere radius: 68.416252 mm, palm position: (27.9439, 101.533, 75.7847)
+Hand pitch: 22.567502 degrees, roll: 6.291858 degrees, yaw: 17.298253 degrees
+Frame id: 56992, timestamp: 1416858945, hands: 1, fingers: 2, tools: 0, gestures: 0 
+Hand has 2 fingers, average finger tip position: (85.9805, 93.6245, 47.7597)
+Hand sphere radius: 66.334557 mm, palm position: (38.0675, 98.2697, 78.9789)
+Hand pitch: 21.547258 degrees, roll: 5.065740 degrees, yaw: 20.133834 degrees
+Frame id: 56994, timestamp: 1416882950, hands: 1, fingers: 2, tools: 0, gestures: 0 
+Hand has 2 fingers, average finger tip position: (100.259, 89.4586, 54.778)
+Hand sphere radius: 64.169342 mm, palm position: (49.4076, 95.9619, 77.2021)
+Hand pitch: 17.747554 degrees, roll: 3.700069 degrees, yaw: 22.877007 degrees
+Frame id: 56996, timestamp: 1416911282, hands: 1, fingers: 2, tools: 0, gestures: 0 
+Hand has 2 fingers, average finger tip position: (116.115, 84.9486, 60.856)
+Hand sphere radius: 63.852150 mm, palm position: (63.0288, 94.1535, 76.9095)
+Hand pitch: 13.695797 degrees, roll: 2.379327 degrees, yaw: 26.608621 degrees
+Frame id: 56998, timestamp: 1416930978, hands: 1, fingers: 2, tools: 0, gestures: 0 
+Hand has 2 fingers, average finger tip position: (127.142, 80.6862, 68.0942)
+Hand sphere radius: 62.862923 mm, palm position: (72.3681, 90.3793, 80.3402)
+Hand pitch: 10.753113 degrees, roll: 0.798346 degrees, yaw: 30.723680 degrees
+Frame id: 57003, timestamp: 1417003007, hands: 1, fingers: 0, tools: 0, gestures: 0 
+Hand sphere radius: 61.410931 mm, palm position: (98.153, 88.6572, 78.2744)
+Hand pitch: 7.743414 degrees, roll: 2.370555 degrees, yaw: 34.655612 degrees
+Frame id: 57005, timestamp: 1417026991, hands: 1, fingers: 0, tools: 0, gestures: 0 
+Hand sphere radius: 60.753368 mm, palm position: (105.272, 89.1782, 77.7763)
+Hand pitch: 8.890609 degrees, roll: 4.609994 degrees, yaw: 35.512722 degrees
+Frame id: 57009, timestamp: 1417074995, hands: 1, fingers: 0, tools: 0, gestures: 0 
+Hand sphere radius: 61.640923 mm, palm position: (115.148, 85.8131, 77.5636)
+Hand pitch: 8.489334 degrees, roll: 5.987696 degrees, yaw: 34.735057 degrees
+Frame id: 57011, timestamp: 1417099021, hands: 1, fingers: 0, tools: 0, gestures: 0 
+Hand sphere radius: 62.066425 mm, palm position: (111.382, 82.044, 79.7248)
+Hand pitch: 7.224390 degrees, roll: 3.294256 degrees, yaw: 33.672983 degrees
+Frame id: 57013, timestamp: 1417123031, hands: 1, fingers: 0, tools: 0, gestures: 0 
+Hand sphere radius: 65.134193 mm, palm position: (115.814, 78.7415, 72.1842)
+Hand pitch: 9.405581 degrees, roll: 5.393628 degrees, yaw: 34.592709 degrees
+Frame id: 57015, timestamp: 1417147083, hands: 1, fingers: 0, tools: 0, gestures: 0 
+Hand sphere radius: 69.952721 mm, palm position: (120.853, 76.9452, 61.3102)
+Hand pitch: 10.088352 degrees, roll: 7.878101 degrees, yaw: 35.493082 degrees
+Frame id: 57017, timestamp: 1417171079, hands: 1, fingers: 0, tools: 0, gestures: 0 
+Hand sphere radius: 64.432327 mm, palm position: (82.8712, 69.8814, 77.8034)
+Hand pitch: 0.892849 degrees, roll: 11.683517 degrees, yaw: 40.419994 degrees
+Frame id: 57019, timestamp: 1417195077, hands: 1, fingers: 0, tools: 0, gestures: 0 
+Hand sphere radius: 62.502174 mm, palm position: (62.1416, 64.8507, 86.0096)
+Hand pitch: -8.076794 degrees, roll: 11.569149 degrees, yaw: 44.181878 degrees
+Frame id: 57021, timestamp: 1417219093, hands: 1, fingers: 0, tools: 0, gestures: 0 
+Hand sphere radius: 58.361115 mm, palm position: (51.1657, 60.6735, 89.2951)
+Hand pitch: -14.537817 degrees, roll: 3.876884 degrees, yaw: 39.735572 degrees
+Frame id: 57023, timestamp: 1417243089, hands: 1, fingers: 0, tools: 0, gestures: 0 
+Hand sphere radius: 59.315914 mm, palm position: (54.5347, 64.6504, 99.4503)
+Hand pitch: -17.364342 degrees, roll: 3.967456 degrees, yaw: 48.034706 degrees
+Frame id: 57025, timestamp: 1417267121, hands: 1, fingers: 0, tools: 0, gestures: 0 
+Hand sphere radius: 56.841499 mm, palm position: (56.0447, 64.429, 99.4457)
+Hand pitch: -27.099443 degrees, roll: 2.020457 degrees, yaw: 56.771785 degrees
+Frame id: 57027, timestamp: 1417291120, hands: 1, fingers: 0, tools: 0, gestures: 0 
+Hand sphere radius: 55.086670 mm, palm position: (61.0221, 60.9563, 95.1684)
+Hand pitch: -28.707620 degrees, roll: -1.158653 degrees, yaw: 54.136801 degrees
+Frame id: 57029, timestamp: 1417315062, hands: 1, fingers: 0, tools: 0, gestures: 0 
+Hand sphere radius: 55.155811 mm, palm position: (57.5255, 56.2392, 84.8393)
+Hand pitch: -32.364585 degrees, roll: -3.689092 degrees, yaw: 56.033899 degrees
+Frame id: 57031, timestamp: 1417339084, hands: 1, fingers: 0, tools: 0, gestures: 0 
+Hand sphere radius: 58.536114 mm, palm position: (56.8483, 54.0878, 79.4322)
+Hand pitch: -34.907499 degrees, roll: -7.626349 degrees, yaw: 51.988361 degrees
+Frame id: 57033, timestamp: 1417363132, hands: 1, fingers: 0, tools: 0, gestures: 0 
+Hand sphere radius: 62.160961 mm, palm position: (59.6825, 52.4351, 76.8103)
+Hand pitch: -37.481913 degrees, roll: -3.280893 degrees, yaw: 60.165846 degrees
+Frame id: 57035, timestamp: 1417387121, hands: 1, fingers: 0, tools: 0, gestures: 0 
+Hand sphere radius: 56.992687 mm, palm position: (68.084, 50.8457, 76.7762)
+Hand pitch: -29.581638 degrees, roll: 7.745746 degrees, yaw: 60.990783 degrees
+Frame id: 57037, timestamp: 1417411125, hands: 1, fingers: 0, tools: 0, gestures: 0 
+Hand sphere radius: 60.591785 mm, palm position: (32.1117, 102.04, 130.581)
+Hand pitch: -29.743316 degrees, roll: 7.744120 degrees, yaw: 65.070830 degrees
+Frame id: 57039, timestamp: 1417435085, hands: 0, fingers: 0, tools: 0, gestures: 0 
+Frame id: 57041, timestamp: 1417459140, hands: 0, fingers: 0, tools: 0, gestures: 0 
+Frame id: 57043, timestamp: 1417483185, hands: 0, fingers: 0, tools: 0, gestures: 0 
+Frame id: 57045, timestamp: 1417509717, hands: 0, fingers: 0, tools: 0, gestures: 0 
+Frame id: 57047, timestamp: 1417532344, hands: 0, fingers: 0, tools: 0, gestures: 0 
+Frame id: 57049, timestamp: 1417555158, hands: 0, fingers: 0, tools: 0, gestures: 0 
+Frame id: 57051, timestamp: 1417579198, hands: 0, fingers: 0, tools: 0, gestures: 0 
+Frame id: 57053, timestamp: 1417603181, hands: 0, fingers: 0, tools: 0, gestures: 0 
+Frame id: 57055, timestamp: 1417627206, hands: 0, fingers: 0, tools: 0, gestures: 0 
+Frame id: 57057, timestamp: 1417651143, hands: 0, fingers: 0, tools: 0, gestures: 0 
+Frame id: 57059, timestamp: 1417675216, hands: 0, fingers: 0, tools: 0, gestures: 0 
+Frame id: 57061, timestamp: 1417699179, hands: 0, fingers: 0, tools: 0, gestures: 0 
+Frame id: 57063, timestamp: 1417723241, hands: 0, fingers: 0, tools: 0, gestures: 0 
+Frame id: 57065, timestamp: 1417747258, hands: 1, fingers: 0, tools: 0, gestures: 0 
+Hand sphere radius: 71.154251 mm, palm position: (139.778, 356.255, 197.142)
+Hand pitch: 38.480313 degrees, roll: 152.660453 degrees, yaw: -6.732420 degrees
+Frame id: 57067, timestamp: 1417771229, hands: 1, fingers: 0, tools: 0, gestures: 0 
+Hand sphere radius: 69.775200 mm, palm position: (139.434, 356.078, 196.137)
+Hand pitch: 44.288112 degrees, roll: 155.062276 degrees, yaw: -2.028124 degrees
+Frame id: 57069, timestamp: 1417795220, hands: 1, fingers: 0, tools: 0, gestures: 0 
+Hand sphere radius: 69.327934 mm, palm position: (140.032, 355.098, 193.431)
+Hand pitch: 50.160391 degrees, roll: 155.438387 degrees, yaw: -0.986832 degrees
+Frame id: 57071, timestamp: 1417819321, hands: 1, fingers: 0, tools: 0, gestures: 0 
+Hand sphere radius: 69.302773 mm, palm position: (139.402, 349.773, 195.313)
+Hand pitch: 45.626057 degrees, roll: 153.579196 degrees, yaw: 0.861265 degrees
+Frame id: 57073, timestamp: 1417843190, hands: 1, fingers: 0, tools: 0, gestures: 0 
+Hand sphere radius: 68.559807 mm, palm position: (139.61, 351.761, 194.943)
+Hand pitch: 33.924621 degrees, roll: 157.051145 degrees, yaw: -4.070878 degrees
+Frame id: 57075, timestamp: 1417867245, hands: 1, fingers: 0, tools: 0, gestures: 0 
+Hand sphere radius: 68.668694 mm, palm position: (137.715, 352.022, 192.082)
+Hand pitch: 38.977394 degrees, roll: 156.499976 degrees, yaw: -1.599074 degrees
+Frame id: 57077, timestamp: 1417891269, hands: 1, fingers: 0, tools: 0, gestures: 0 
+Hand sphere radius: 67.901909 mm, palm position: (138.668, 349.538, 191.462)
+Hand pitch: 44.113566 degrees, roll: 154.874705 degrees, yaw: 1.310350 degrees
+Frame id: 57079, timestamp: 1417915281, hands: 1, fingers: 0, tools: 0, gestures: 0 
+Hand sphere radius: 68.810814 mm, palm position: (138.502, 346.937, 190.37)
+Hand pitch: 43.575487 degrees, roll: 156.558538 degrees, yaw: 3.014249 degrees
+Frame id: 57081, timestamp: 1417939259, hands: 2, fingers: 0, tools: 0, gestures: 0 
+Hand sphere radius: 86.215240 mm, palm position: (10.1819, 247.128, 241.334)
+Hand pitch: 115.681795 degrees, roll: 15.186567 degrees, yaw: 122.021372 degrees
+Frame id: 57083, timestamp: 1417963283, hands: 2, fingers: 0, tools: 0, gestures: 0 
+Hand sphere radius: 85.135857 mm, palm position: (13.6932, 245.591, 236.088)
+Hand pitch: 108.316399 degrees, roll: 20.913783 degrees, yaw: 125.436180 degrees
+Frame id: 57085, timestamp: 1417987300, hands: 2, fingers: 0, tools: 0, gestures: 0 
+Hand sphere radius: 87.457832 mm, palm position: (16.0421, 244.783, 233.334)
+Hand pitch: 106.676068 degrees, roll: 20.926134 degrees, yaw: 130.854405 degrees
+Frame id: 57087, timestamp: 1418011266, hands: 2, fingers: 0, tools: 0, gestures: 0 
+Hand sphere radius: 86.935898 mm, palm position: (22.6874, 243.142, 230.945)
+Hand pitch: 96.802756 degrees, roll: 44.224157 degrees, yaw: 113.882409 degrees
+Frame id: 57089, timestamp: 1418035336, hands: 2, fingers: 0, tools: 0, gestures: 0 
+Hand sphere radius: 94.659775 mm, palm position: (20.325, 239.473, 231.505)
+Hand pitch: 93.814849 degrees, roll: 53.307814 degrees, yaw: 107.490015 degrees
+Frame id: 57091, timestamp: 1418059345, hands: 2, fingers: 0, tools: 0, gestures: 0 
+Hand sphere radius: 98.926529 mm, palm position: (18.0196, 236.331, 229.591)
+Hand pitch: 92.558599 degrees, roll: 61.205913 degrees, yaw: 104.320622 degrees
+Frame id: 57093, timestamp: 1418083269, hands: 3, fingers: 0, tools: 0, gestures: 0 
+Hand sphere radius: 93.092903 mm, palm position: (21.1097, 239.364, 228.313)
+Hand pitch: 89.210324 degrees, roll: 89.334012 degrees, yaw: 84.387446 degrees
+Frame id: 57095, timestamp: 1418107345, hands: 3, fingers: 0, tools: 0, gestures: 0 
+Hand sphere radius: 91.519203 mm, palm position: (25.9885, 245.27, 227.825)
+Hand pitch: 85.138842 degrees, roll: 121.589458 degrees, yaw: 57.277824 degrees
+Frame id: 57097, timestamp: 1418131284, hands: 3, fingers: 0, tools: 0, gestures: 0 
+Hand sphere radius: 88.837997 mm, palm position: (32.3783, 246.188, 226.828)
+Hand pitch: 82.280264 degrees, roll: 119.708765 degrees, yaw: 51.552810 degrees
+Frame id: 57099, timestamp: 1418155308, hands: 3, fingers: 0, tools: 0, gestures: 0 
+Hand sphere radius: 91.824654 mm, palm position: (31.8999, 241.741, 224.871)
+Hand pitch: 82.077640 degrees, roll: 125.997211 degrees, yaw: 52.403145 degrees
+Frame id: 57101, timestamp: 1418179326, hands: 3, fingers: 0, tools: 0, gestures: 0 
+Hand sphere radius: 94.944847 mm, palm position: (33.0349, 245.252, 225.871)
+Hand pitch: 81.980398 degrees, roll: 122.208628 degrees, yaw: 52.826760 degrees
+Frame id: 57103, timestamp: 1418203344, hands: 3, fingers: 0, tools: 0, gestures: 0 
+Hand sphere radius: 90.865860 mm, palm position: (31.6891, 250.887, 230.363)
+Hand pitch: 80.127969 degrees, roll: 131.052303 degrees, yaw: 41.580071 degrees
+Frame id: 57105, timestamp: 1418227386, hands: 3, fingers: 0, tools: 0, gestures: 0 
+Hand sphere radius: 95.709389 mm, palm position: (31.6012, 252.17, 232.161)
+Hand pitch: 76.602150 degrees, roll: 140.406028 degrees, yaw: 27.668550 degrees
+Frame id: 57107, timestamp: 1418251399, hands: 3, fingers: 0, tools: 0, gestures: 0 
+Hand sphere radius: 92.793762 mm, palm position: (31.6369, 252.293, 232.794)
+Hand pitch: 75.582936 degrees, roll: 144.124889 degrees, yaw: 19.816264 degrees
+Frame id: 57109, timestamp: 1418275399, hands: 3, fingers: 0, tools: 0, gestures: 0 
+Hand sphere radius: 90.530846 mm, palm position: (22.0273, 250.487, 232.407)
+Hand pitch: 77.768569 degrees, roll: 136.026511 degrees, yaw: 25.711197 degrees
+Frame id: 57111, timestamp: 1418299393, hands: 3, fingers: 0, tools: 0, gestures: 0 
+Hand sphere radius: 94.407257 mm, palm position: (4.13349, 248.369, 236.235)
+Hand pitch: 82.621712 degrees, roll: 124.494679 degrees, yaw: 33.510988 degrees
+Frame id: 57113, timestamp: 1418323338, hands: 3, fingers: 0, tools: 0, gestures: 0 
+Hand sphere radius: 91.839684 mm, palm position: (17.5802, 222.695, 226.825)
+Hand pitch: 65.421301 degrees, roll: 138.122805 degrees, yaw: 3.912650 degrees
+Frame id: 57115, timestamp: 1418347406, hands: 3, fingers: 0, tools: 0, gestures: 0 
+Hand sphere radius: 90.942856 mm, palm position: (24.849, 219.775, 227.054)
+Hand pitch: 69.205540 degrees, r
